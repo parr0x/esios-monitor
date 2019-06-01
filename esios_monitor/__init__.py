@@ -2,6 +2,10 @@ import requests
 import json
 import sqlite3
 import urllib
+import os
+
+
+_DB_PATH = os.path.join(os.path.dirname(__file__), 'data.db')
 
 
 def get_values(start_date, end_date, indicators):
@@ -20,7 +24,7 @@ def get_values(start_date, end_date, indicators):
         response = requests.get(url, headers=headers, stream=True)
         print(response)
         data_dict = json.loads(response.content.decode('UTF-8'))
-        _save_data(_interesting_values(data_dict), 'data.db')
+        _save_data(_interesting_values(data_dict), _DB_PATH)
 
 
 def _save_data(data, db_path):
@@ -36,5 +40,4 @@ def _interesting_values(source):
         yield (name, record["datetime"], record["value"])
 
 
-indicators = [10167,10131,10122,10113,10104,10095,10086,10077,10074,10073,10064,25,20,14,15,9,2,1,3,4]
-get_values('2019-06-01', '2019-06-02', indicators)
+

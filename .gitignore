@@ -2,3 +2,4 @@ ficheros
 venv
 .idea
 data.db
+*.pyc
