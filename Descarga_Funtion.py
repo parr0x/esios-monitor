@@ -1,9 +1,7 @@
-def descarga(datei,datef,ind):
-    print(datei,datef,ind)
+def descarga(datei, datef, ind):
+    print(datei, datef, ind)
     import requests
     import json
-    import pandas as pd  # Import Panda Library
-    import os
 
     url = "https://api.esios.ree.es/indicators/"
     Fecha_Inicial = datei
@@ -19,21 +17,22 @@ def descarga(datei,datef,ind):
         Miurl = url + str(i[j]) + aurl + Fecha_Inicial + b + Fecha_final + t
         response = requests.get(Miurl, headers=headers, stream=True)
         print(response)
-        a = 0
         data_dict = json.loads(response.content.decode('UTF-8'))
-        q = data_dict["indicator"]["values"].__len__()
-        res = pd.DataFrame(columns=('name', 'datetime', 'value'))
-        while a < q:
-            res.loc[a, 'name'] = data_dict["indicator"]["name"]
-            res.loc[a, 'datetime'] = data_dict["indicator"]["values"][a]["datetime"]
-            res.loc[a, 'value'] = data_dict["indicator"]["values"][a]["value"]
-            a += 1
-        fichero = os.getcwd() + '\\ficheros\\' + data_dict["indicator"][
-            "name"] + ' ' + Fecha_Inicial + ' ' + Fecha_final
-        print(fichero)
-        res.to_csv(fichero, index=None, header=True)
+        _save_data(interesting_values(data_dict), 'data.db')
     return
 
-descarga('2018-11-10','2019-01-01',[10167])
+
+def _save_data(data, db_path):
+    import sqlite3
+    conn = sqlite3.connect(db_path)
+    conn.executemany('INSERT OR IGNORE INTO PBFSchedule VALUES (?,?,?)', data)
+    conn.commit()
+    conn.close()
 
 
+def interesting_values(source):
+    name = source["indicator"]["name"]
+    for record in source["indicator"]["values"]:
+        yield (name, record["datetime"], record["value"])
+
+descarga('2018-10-12', '2018-10-18', [10167])
