@@ -31,7 +31,7 @@ a = pd.Series(data_dict, index = Index)
 
 
 df = pd.DataFrame({"clase": clases, "tipo": tipos, "valor": valores})
-pd.concat([df, a]
+pd.concat([df, a])
 a=pd.DataFrame(data_dict["indicator"]["values"])
 
 res= pd.DataFrame (columns=('name','datetime','value'))
