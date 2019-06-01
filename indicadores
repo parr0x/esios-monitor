@@ -1,0 +1,1670 @@
+name,id
+Coste asignación de banda de Regulación Secundaria,899
+Precio de referencia en Mercado Intradiario Continuo,1727
+Coste del proceso de solución de Restricciones Técnicas de Seguridad en Tiempo Real a Subir,1723
+Precio medio ponderado de solución de Restricciones Técnicas de Seguridad en Tiempo Real bajar,10341
+Precio medio ponderado de solución de Restricciones Técnicas de Seguridad en Tiempo Real subir,10340
+Energía limitada con derechos de cobro por restricciones en tiempo real a bajar,1726
+Energía limitada con derechos de cobro por restricciones en tiempo real a subir,1725
+Coste del proceso de solución de Restricciones Técnicas de Seguridad en Tiempo Real a Bajar,1724
+Precio medio anual componente servicios ajuste del sistema,10329
+Precio medio mensual componente servicios ajuste del sistema,10328
+Precio medio ponderado restricciones técnicas diario bajar,10327
+Precio medio ponderado restricciones técnicas diario subir,10326
+Energía total asignada por seguridad y de balance,10325
+Energía de balance a bajar,10324
+Energía de balance a subir,10323
+Energía asignada por seguridad a bajar,10322
+Energía asignada por seguridad a subir,10321
+Demanda en Mallorca - Menorca - Ibiza - Formentera,1690
+Generación en Mallorca - Menorca - Ibiza - Formentera,1691
+Capacidad Reducida Largo Plazo Francia sentido importador,1674
+Capacidad Largo Plazo No Nominada Francia sentido exportador,1683
+Capacidad Largo Plazo No Nominada Francia sentido importador,1682
+Capacidad Reducida Largo Plazo Portugal sentido exportador,1677
+Capacidad Reducida Largo Plazo Portugal sentido importador,1676
+Capacidad Reducida Largo Plazo Francia sentido exportador,1675
+Compensaciones por reducciones de capacidad Portugal-España importación,1680
+Remuneración Capacidad Largo plazo Portugal-España exportación,1687
+Remuneración Capacidad Largo plazo Portugal-España importación,1686
+Remuneración Capacidad Largo plazo Francia-España exportación,1685
+Remuneración Capacidad Largo plazo Francia-España importación,1684
+Compensaciones por reducciones de capacidad Portugal-España exportación,1681
+Compensaciones por reducciones de capacidad Francia-España importación,1678
+Compensaciones por reducciones de capacidad Francia-España exportación,1679
+Rentas de congestión subastas explícitas mensual Portugal importación,1662
+Rentas de congestión subastas explícitas anual Portugal exportación,1667
+Rentas de congestión subastas explícitas anual Portugal importación,1666
+Rentas de congestión subastas explícitas trimestral Portugal exportación,1665
+Rentas de congestión subastas explícitas trimestral Portugal importación,1664
+Rentas de congestión subastas explícitas mensual Portugal exportación,1663
+Precio de subasta explícita mensual de capacidad en la interconexión con Portugal sentido importador,1644
+Precio de subasta explícita anual de capacidad en la interconexión con Portugal sentido exportador,1661
+Precio de subasta explícita anual de capacidad en la interconexión con Portugal sentido importador,1660
+Precio de subasta explícita trimestral de capacidad en la interconexión con Portugal sentido exportador,1653
+Precio de subasta explícita trimestral de capacidad en la interconexión con Portugal sentido importador,1652
+Precio de subasta explícita mensual de capacidad en la interconexión con Portugal sentido exportador,1645
+Participantes adjudicatarios en subasta explícita mensual de capacidad en la interconexión con Portugal sentido importador,1640
+Participantes adjudicatarios en subasta explícita anual de capacidad en la interconexión con Portugal sentido exportador,1657
+Participantes adjudicatarios en subasta explícita anual de capacidad en la interconexión con Portugal sentido importador,1656
+Participantes adjudicatarios en subasta explícita trimestral de capacidad en la interconexión con Portugal sentido exportador,1649
+Participantes adjudicatarios en subasta explícita trimestral de capacidad en la interconexión con Portugal sentido importador,1648
+Participantes adjudicatarios en subasta explícita mensual de capacidad en la interconexión con Portugal sentido exportador,1641
+Capacidad asignada en subasta explícita mensual de capacidad en la interconexión con Portugal sentido importador,1642
+Capacidad asignada en subasta explícita anual de capacidad en la interconexión con Portugal sentido exportador,1659
+Capacidad asignada en subasta explícita anual de capacidad en la interconexión con Portugal sentido importador,1658
+Capacidad asignada en subasta explícita trimestral de capacidad en la interconexión con Portugal sentido exportador,1651
+Capacidad asignada en subasta explícita trimestral de capacidad en la interconexión con Portugal sentido importador,1650
+Capacidad asignada en subasta explícita mensual de capacidad en la interconexión con Portugal sentido exportador,1643
+Participantes en subasta explícita mensual de capacidad en la interconexión con Portugal sentido importador,1638
+Participantes en subasta explícita anual de capacidad en la interconexión con Portugal sentido exportador,1655
+Participantes en subasta explícita anual de capacidad en la interconexión con Portugal sentido importador,1654
+Participantes en subasta explícita trimestral de capacidad en la interconexión con Portugal sentido exportador,1647
+Participantes en subasta explícita trimestral de capacidad en la interconexión con Portugal sentido importador,1646
+Participantes en subasta explícita mensual de capacidad en la interconexión con Portugal sentido exportador,1639
+Capacidad ofrecida subasta explícita mensual de capacidad en la interconexión con Portugal sentido importador,1632
+Capacidad ofrecida subasta explícita anual de capacidad en la interconexión con Portugal sentido exportador,1637
+Capacidad ofrecida subasta explícita anual de capacidad en la interconexión con Portugal sentido importador,1636
+Capacidad ofrecida subasta explícita trimestral de capacidad en la interconexión con Portugal sentido exportador,1635
+Capacidad ofrecida subasta explícita trimestral de capacidad en la interconexión con Portugal sentido importador,1634
+Capacidad ofrecida subasta explícita mensual de capacidad en la interconexión con Portugal sentido exportador,1633
+Generación programada P48 Exportación Total,10238
+Generación programada P48 Importación Total,10237
+Energía asignada en Mercado Intradiario Continuo,1442
+Generación programada PHFC UGH + no UGH,10271
+Generación programada PHFC total,10287
+Generación programada + Consumo bombeo + Cable Baleares PHFC,10286
+Ajuste de programas PHFC,10285
+Saldo total interconexiones programa PHFC,10284
+Generación programada PHFC otras renovables,10283
+Generación programada PHFC Carbón,10282
+Generación programada PHFC Eólica,10281
+Generación programada PHFC Anexo II RD 134/2010,10280
+Demanda programada PHFC total,10279
+Generación programada PHFC Saldo Andorra,10278
+Generación programada PHFC Saldo Marruecos,10277
+Generación programada PHFC Cogeneración,10273
+Generación programada PHFC Saldo Portugal,10276
+Generación programada PHFC Saldo Francia,10275
+Generación programada PHFC Residuos,10274
+Generación programada PHFC Fuel-Gas,10272
+Generación programada PHFC Importación Andorra,1430
+Generación programada PHFC Importación Marruecos,1429
+Generación programada PHFC Importación Portugal,1428
+Generación programada PHFC Importación Francia,1427
+Generación programada PHFC Genéricas,1426
+Generación programada PHFC Enlace Baleares,1425
+Generación programada PHFC Consumo bombeo,1424
+Generación programada PHFC Residuos varios,1423
+Demanda programada PHFC Corrección eólica,1439
+Demanda programada PHFC Consumos directos en mercado,1437
+Demanda programada PHFC Consumo de Servicios Auxiliares,1438
+Demanda programada PHFC Corrección REE,1441
+Demanda programada PHFC Comercializadores de referencia,1436
+Demanda programada PHFC Corrección solar,1440
+Demanda programada PHFC Comercializadores mercado libre,1435
+Generación programada PHFC Exportación Andorra,1434
+Generación programada PHFC Exportación Marruecos,1433
+Generación programada PHFC Exportación Portugal,1432
+Generación programada PHFC Exportación Francia,1431
+Generación programada PHFC Fuel,1409
+Generación programada PHFC Ciclo combinado,1408
+Generación programada PHFC Hulla sub-bituminosa,1407
+Generación programada PHFC Hulla antracita,1406
+Generación programada PHFC Hulla sub-bituminosa Anexo II RD 134/2010,1405
+Generación programada PHFC Hulla antracita Anexo II RD 134/2010,1404
+Generación programada PHFC Nuclear,1403
+Generación programada PHFC Turbinación bombeo,1402
+Generación programada PHFC Hidráulica no UGH,1401
+Generación programada PHFC Hidráulica UGH,1400
+Generación programada PHFC Residuos domésticos y similares,1422
+Generación programada PHFC Biogás,1421
+Generación programada PHFC Biomasa,1420
+Generación programada PHFC Energía residual,1419
+Generación programada PHFC Subproductos minería,1418
+Generación programada PHFC Derivados del petróleo ó carbón,1417
+Generación programada PHFC Gas Natural Cogeneración,1416
+Generación programada PHFC Océano y geotérmica,1415
+Generación programada PHFC Solar térmica,1414
+Generación programada PHFC Solar fotovoltaica,1413
+Generación programada PHFC Eólica marina,1412
+Generación programada PHFC Eólica terrestre,1411
+Generación programada PHFC Gas Natural,1410
+Energía asignada restricciones técnicas diario Fase II,10270
+Solicitud de aplicación del servicio interrumpilidad por criterios económicos,1397
+Nº de Clientes > 450 kW nivel de tensión EB >= 30 kV y < 36 kV,1396
+Nº de Clientes > 450 kW nivel de tensión EA >= 1 kV y < 30 kV,1395
+Demanda medida nivel de tensión EB >= 30 kV y < 36 kV,1394
+Demanda medida nivel de tensión EA >= 1 kV y < 30 kV,1393
+Precio de derechos de emisión de despacho de los TNP (PCO2D),1391
+Desglose vehículo eléctrico 2.0.DHS Coste de comercialización,1390
+Desglose eficiencia 2 periodos (DHA) 2.0.DHA Coste de comercialización,1389
+Desglose peaje por defecto 2.0.A Coste de comercialización,1388
+Balance de desvíos medidos cierre de energía subir,1380
+Balance de desvíos medidos desvío UP genérica bajar,1387
+Balance de desvíos medidos desvío UP genérica subir,1386
+Balance de desvíos medidos enlace balear bajar,1385
+Balance de desvíos medidos enlace balear subir,1384
+Balance de desvíos medidos interrumpibilidad bajar,1383
+Balance de desvíos medidos interrumpibilidad subir,1382
+Balance de desvíos medidos cierre de energía bajar,1381
+Balance de desvíos medidos servicios transfronterizos de balance bajar,1379
+Balance de desvíos medidos servicios transfronterizos de balance subir,1378
+Cierre liquidación,1000
+Demanda medida nivel de tensión total,10269
+Demanda medida tarifa de acceso total,10268
+Demanda medida discriminación horaria total,10267
+Generación programada PHF7 total,10266
+Generación programada PHF6 total,10265
+Generación programada PHF5 total,10264
+Generación programada PHF4 total,10263
+Generación programada PHF3 total,10262
+Generación programada PHF2 total,10261
+Generación programada PHF1 total,10260
+Generación programada PVP total,10259
+Generación programada PBF total,10258
+Generación programada P48 total,10257
+Coste de solución de restricciones técnicas diario Fase I subir,1373
+Coste de solución de restricciones técnicas diario Fase II bajar,1376
+Coste de solución de restricciones técnicas diario Fase II subir,1375
+Coste de solución de restricciones técnicas diario Fase I bajar,1374
+Demanda medida tarifa de acceso 6.1B >= 30 KV Y < 36 KV,1370
+Nº de Clientes > 450 kW tarifa de acceso 6.1B >= 30 KV Y < 36 KV,1372
+Nº de Clientes > 450 kW tarifa de acceso 6.1A >= 1 KV Y < 30 KV,1371
+Demanda medida tarifa de acceso 6.1A >= 1 KV Y < 30 KV,1369
+Desglose vehículo eléctrico 2.0.DHS Término de energía,10256
+Desglose eficiencia 2 periodos (DHA) 2.0.DHA Término de energía,10255
+Desglose peaje por defecto 2.0.A Término de energía,10254
+Precio medio horario componente incumplimiento energía de balance ,1368
+Precio medio horario componente incumplimiento energía de balance comercialización de referencia,1367
+Precio medio horario componente incumplimiento energía de balance contratación libre,1366
+Precio medio anual componente incumplimiento energía de balance ,1365
+Precio medio anual componente incumplimiento energía de balance comercialización de referencia,1364
+Precio medio anual componente incumplimiento energía de balance contratación libre,1363
+Precio medio mensual componente incumplimiento energía de balance ,1362
+Precio medio mensual componente incumplimiento energía de balance comercialización de referencia,1361
+Precio medio mensual componente incumplimiento energía de balance contratación libre,1360
+Volumen neto de Energía asignada por restricciones en tiempo real,10253
+Volumen neto de energía utilizada de regulación secundaria,10252
+Volumen neto de asignación gestión de desvíos,10251
+Volumen neto de asignación regulación terciaria,10250
+Previsión de la demanda residual,10249
+Demanda en Baleares,10244
+Generación en los SNP,10248
+Generación en Canarias,10246
+Demanda en los SNP,10245
+Demanda en Canarias,10243
+Generación en Baleares,10247
+Generación en Melilla,1358
+Demanda en Gran Canaria,1339
+Generación en Mallorca - Menorca,1355
+Generación en El Hierro,1354
+Generación en La Palma,1352
+Generación en Ibiza - Formentera,1356
+Generación en Lanzarote y Fuerteventura,1350
+Demanda en Ceuta,1347
+Demanda en Ibiza - Formentera,1346
+Demanda en Mallorca - Menorca,1345
+Demanda en El Hierro,1344
+Demanda en La Gomera,1343
+Generación en Ceuta,1357
+Generación en Tenerife,1351
+Generación en Gran Canaria,1349
+Demanda en Melilla,1348
+Generación en La Gomera,1353
+Demanda en La Palma,1342
+Demanda en Tenerife,1341
+Demanda en Lanzarote y Fuerteventura,1340
+Volumen neto de los desvíos generación-demanda,1338
+Precio medio de la generación en los SNP por subsistema,1337
+Precio medio de la demanda en los SNP por subsistema,1336
+Demanda del sistema a efectos del cálculo de perfiles,1335
+Capacidad de intercambio disponible en la interconexión con Francia exportación,10242
+Capacidad de intercambio disponible en la interconexión con Francia importación,10241
+Programa bilateral PBF Total Compras,10236
+Programa bilateral PBF Total Ventas,10235
+Programa bilateral PBF Otras renovables,10234
+Programa bilateral PBF Carbón,10233
+Potencia disponible de generación total horizonte año móvil,10232
+Término de facturación de energía activa del PVPC vehículo eléctrico suma componentes,10231
+Término de facturación de energía activa del PVPC eficiencia 2 periodos (DHA) suma componentes,10230
+Término de facturación de energía activa del PVPC peaje por defecto suma componentes,10229
+Generación programada + Consumo bombeo + Cable Baleares PVP,10228
+Generación programada + Consumo bombeo + Cable Baleares PHF7,10227
+Generación programada + Consumo bombeo + Cable Baleares PHF6,10226
+Generación programada + Consumo bombeo + Cable Baleares PHF5,10225
+Generación programada + Consumo bombeo + Cable Baleares PHF4,10224
+Generación programada + Consumo bombeo + Cable Baleares PHF3,10223
+Generación programada + Consumo bombeo + Cable Baleares PHF2,10222
+Generación programada + Consumo bombeo + Cable Baleares PHF1,10221
+Generación programada + Consumo bombeo + Cable Baleares PBF,10220
+Precio medio mensual final contratación libre suma de componentes,10219
+Precio medio mensual final comercialización de referencia suma de componentes,10218
+Precio medio mensual final suma de componentes,10216
+Precio medio anual final suma de componentes,10217
+Precio medio anual final comercialización de referencia suma de componentes,10215
+Precio medio horario final contratación libre suma de componentes,10214
+Precio medio anual final contratación libre suma de componentes,10213
+Precio medio horario final comercializadores de referencia suma de componentes,10212
+Precio medio horario final suma de componentes,10211
+Saldo horario neto de interconexión con Andorra telemedidas,10210
+Saldo horario neto de interconexión con Marruecos telemedidas,10209
+Saldo horario neto de interconexión con Portugal telemedidas,10208
+Saldo horario neto de interconexión con Francia telemedidas,10207
+Generación T.Real Solar,10206
+Energía asignada en Mercado SPOT Diario Francia,1334
+Precio mínimo de ofertas de balance presentadas por Portugal para exportación activadas por el SEE,1333
+Precio máximo de ofertas de balance presentadas por Portugal para exportación activadas por el SEE,1319
+Precio máximo de ofertas de balance presentadas por Francia para exportación activadas por el SEE,1317
+Precio máximo de ofertas de balance presentadas por Francia para importación activadas por el SEE,1316
+Precio mínimo de ofertas de balance presentadas por Portugal para importación activadas por el SEE,1332
+Precio mínimo de ofertas de balance presentadas por Francia para importación activadas por el SEE,1330
+Precio mínimo de ofertas de balance presentadas por SEE para exportación activadas por Portugal,1329
+Precio mínimo de ofertas de balance presentadas por SEE para exportación activadas por Francia,1327
+Precio mínimo de ofertas de balance presentadas por SEE para importación activadas por Francia,1326
+Precio mínimo de ofertas de balance presentadas por Portugal para importación,1324
+Precio mínimo de ofertas de balance presentadas por SEE para exportación,1321
+Precio mínimo de ofertas de balance presentadas por Francia para exportación activadas por el SEE,1331
+Precio mínimo de ofertas de balance presentadas por SEE para importación activadas por Portugal,1328
+Precio mínimo de ofertas de balance presentadas por Portugal para exportación,1325
+Precio mínimo de ofertas de balance presentadas por Francia para importación,1322
+Precio mínimo de ofertas de balance presentadas por SEE para importación,1320
+Precio máximo de ofertas de balance presentadas por Portugal para importación activadas por el SEE,1318
+Precio máximo de ofertas de balance presentadas por SEE para exportación activadas por Portugal,1315
+Precio mínimo de ofertas de balance presentadas por Francia para exportación,1323
+Precio medio de ofertas de balance presentadas por Francia para importación,1302
+Precio máximo de ofertas de balance presentadas por SEE para exportación activadas por Francia,1313
+Precio máximo de ofertas de balance presentadas por Portugal para exportación,1311
+Precio máximo de ofertas de balance presentadas por Portugal para importación,1310
+Precio máximo de ofertas de balance presentadas por Francia para importación,1308
+Precio máximo de ofertas de balance presentadas por SEE para exportación,1307
+Precio medio de ofertas de balance presentadas por Portugal para exportación,1305
+Precio medio de ofertas de balance presentadas por Francia para exportación,1303
+Precio máximo de ofertas de balance presentadas por SEE para importación activadas por Francia,1312
+Precio máximo de ofertas de balance presentadas por Francia para exportación,1309
+Precio máximo de ofertas de balance presentadas por SEE para importación,1306
+Precio medio de ofertas de balance presentadas por Portugal para importación,1304
+Energía de ofertas de balance presentadas por Portugal para exportación,1301
+Energía de ofertas de balance presentadas por Francia para exportación,1299
+Energía de ofertas de balance presentadas por Francia para importación,1298
+Energía de ofertas de balance presentadas por Portugal para importación,1300
+Precio máximo de ofertas de balance presentadas por SEE para importación activadas por Portugal,1314
+Generación T.Real Cogeneración y resto,1297
+Generación T.Real Térmica renovable,1296
+Generación T.Real Solar fotovoltaica,1295
+Generación T.Real Solar térmica,1294
+Generación medida solar,10205
+Ajuste de programas PHF7,10204
+Ajuste de programas PHF6,10203
+Ajuste de programas PHF5,10202
+Ajuste de programas PHF4,10201
+Ajuste de programas PHF3,10200
+Ajuste de programas PHF2,10199
+Ajuste de programas PHF1,10198
+Ajuste de programas PVP,10197
+Ajuste de programas PBF,10196
+Generación medida total tipo producción,10195
+Demanda real,1293
+Saldo total interconexiones programa PHF7,10194
+Saldo total interconexiones programa PHF6,10193
+Saldo total interconexiones programa PHF5,10192
+Saldo total interconexiones programa PHF4,10191
+Saldo total interconexiones programa PHF3,10190
+Saldo total interconexiones programa PHF2,10189
+Saldo total interconexiones programa PHF1,10188
+Saldo total interconexiones programa PVP,10187
+Saldo total interconexiones programa PBF,10186
+Precio medio anual componente control factor potencia,1292
+Precio medio anual componente control factor potencia comercializadores de referencia,1291
+Precio medio anual componente control factor potencia contratación libre,1290
+Precio medio mensual componente control factor potencia,1289
+Precio medio mensual componente control factor potencia comercializador de referencia,1288
+Precio medio mensual componente control factor potencia contratación libre,1287
+Precio medio horario componente control factor potencia ,1286
+Precio medio horario componente control factor potencia contratación libre,1285
+Precio medio horario componente control factor potencia comercializadores de referencia,1284
+Precio medio anual componente servicio interrumpibilidad,1283
+Precio medio anual componente servicio interrumpibilidad comercializadores de referencia,1282
+Precio medio anual componente servicio interrumpibilidad contratación libre,1281
+Precio medio mensual componente servicio interrumpibilidad,1280
+Precio medio mensual componente servicio interrumpibilidad comercializadores de referencia,1279
+Precio medio mensual componente servicio interrumpibilidad contratación libre,1278
+Precio medio horario componente servicio interrumpibilidad ,1277
+Precio medio horario componente servicio interrumpibilidad contratación libre,1276
+Precio medio horario componente servicio interrumpibilidad comercializadores de referencia,1275
+Generación programada PHF7 otras renovables,10183
+Generación programada PHF6 otras renovables,10182
+Generación programada PHF5 otras renovables,10181
+Generación programada PHF4 otras renovables,10180
+Generación programada PHF3 otras renovables,10179
+Generación programada PHF2 otras renovables,10178
+Generación programada PHF1 otras renovables,10177
+Generación programada PVP otras renovables,10176
+Generación programada PHF7 Carbón,10175
+Generación programada PHF6 Carbón,10174
+Generación programada PHF5 Carbón,10173
+Generación programada PHF4 Carbón,10172
+Generación programada PHF3 Carbón,10171
+Generación programada PHF2 Carbón,10170
+Generación programada PHF1 Carbón,10169
+Generación programada PVP Carbón,10168
+Generación programada PBF Carbón,10167
+Generación programada PHF7 Eólica,10165
+Generación programada PHF6 Eólica,10164
+Generación programada PHF5 Eólica,10163
+Generación programada PHF4 Eólica,10162
+Generación programada PHF3 Eólica,10161
+Generación programada PHF2 Eólica,10160
+Generación programada PHF1 Eólica,10159
+Generación programada PVP Eólica,10158
+Generación programada PHF7 Anexo II RD 134/2010,10157
+Generación programada PHF6 Anexo II RD 134/2010,10156
+Generación programada PHF5 Anexo II RD 134/2010,10155
+Generación programada PHF4 Anexo II RD 134/2010,10154
+Generación programada PHF3 Anexo II RD 134/2010,10153
+Generación programada PHF2 Anexo II RD 134/2010,10152
+Generación programada PHF1 Anexo II RD 134/2010,10151
+Generación programada PVP Anexo II RD 134/2010,10150
+Demanda programada PHF7 total,10149
+Demanda programada PHF6 total,10148
+Demanda programada PHF5 total,10147
+Demanda programada PHF4 total,10146
+Demanda programada PHF3 total,10145
+Demanda programada PHF2 total,10144
+Demanda programada PHF1 total,10143
+Demanda programada PVP total,10142
+Demanda programada PBF total,10141
+Generación programada PHF7 Saldo Andorra,10140
+Generación programada PHF6 Saldo Andorra,10139
+Generación programada PHF5 Saldo Andorra,10138
+Generación programada PHF4 Saldo Andorra,10137
+Generación programada PHF3 Saldo Andorra,10136
+Generación programada PHF2 Saldo Andorra,10134
+Generación programada PHF1 Saldo Andorra,10133
+Generación programada PVP Saldo Andorra,10132
+Generación programada PBF Saldo Andorra,10131
+Generación programada PHF7 Saldo Marruecos,10130
+Generación programada PHF6 Saldo Marruecos,10129
+Generación programada PHF5 Saldo Marruecos,10128
+Generación programada PHF4 Saldo Marruecos,10127
+Generación programada PHF3 Saldo Marruecos,10126
+Generación programada PHF2 Saldo Marruecos,10125
+Generación programada PHF1 Saldo Marruecos,10124
+Generación programada PVP Saldo Marruecos,10123
+Generación programada PBF Saldo Marruecos,10122
+Generación programada PHF7 Saldo Portugal,10121
+Generación programada PHF6 Saldo Portugal,10120
+Generación programada PHF5 Saldo Portugal,10119
+Generación programada PHF4 Saldo Portugal,10118
+Generación programada PHF3 Saldo Portugal,10117
+Generación programada PHF2 Saldo Portugal,10116
+Generación programada PHF1 Saldo Portugal,10115
+Generación programada PVP Saldo Portugal,10114
+Generación programada PBF Saldo Portugal,10113
+Generación programada PHF7 Saldo Francia,10112
+Generación programada PHF6 Saldo Francia,10111
+Generación programada PHF5 Saldo Francia,10110
+Generación programada PHF4 Saldo Francia,10109
+Generación programada PHF3 Saldo Francia,10108
+Generación programada PHF2 Saldo Francia,10107
+Generación programada PHF1 Saldo Francia,10106
+Generación programada PVP Saldo Francia,10105
+Generación programada PBF Saldo Francia,10104
+Generación programada PHF7 Residuos,10103
+Generación programada PHF6 Residuos,10102
+Generación programada PHF5 Residuos,10101
+Generación programada PHF4 Residuos,10100
+Generación programada PHF3 Residuos,10099
+Generación programada PHF2 Residuos,10098
+Generación programada PHF1 Residuos,10097
+Generación programada PVP Residuos,10096
+Generación programada PBF Residuos,10095
+Generación programada PHF7 Cogeneración,10094
+Generación programada PHF6 Cogeneración,10093
+Generación programada PHF5 Cogeneración,10092
+Generación programada PHF4 Cogeneración,10091
+Generación programada PHF3 Cogeneración,10090
+Generación programada PHF2 Cogeneración,10089
+Generación programada PHF1 Cogeneración,10088
+Generación programada PVP Cogeneración,10087
+Generación programada PBF Cogeneración,10086
+Generación programada PHF7 Fuel-Gas,10085
+Generación programada PHF6 Fuel-Gas,10084
+Generación programada PHF5 Fuel-Gas,10083
+Generación programada PHF4 Fuel-Gas,10082
+Generación programada PHF3 Fuel-Gas,10081
+Generación programada PHF2 Fuel-Gas,10080
+Generación programada PHF1 Fuel-Gas,10079
+Generación programada PVP Fuel-Gas,10078
+Generación programada PBF Fuel-Gas,10077
+Generación programada PBF Anexo II RD 134/2010,10075
+Generación programada PBF otras renovables,10074
+Generación programada PBF Eólica,10073
+Generación programada PHF7 UGH + no UGH,10072
+Generación programada PHF6 UGH + no UGH,10071
+Generación programada PHF5 UGH + no UGH,10070
+Generación programada PHF4 UGH + no UGH,10069
+Generación programada PHF3 UGH + no UGH,10068
+Generación programada PHF2 UGH + no UGH,10067
+Generación programada PHF1 UGH + no UGH,10066
+Generación programada PVP UGH + no UGH,10065
+Generación programada PBF UGH + no UGH,10064
+Generación programada P48 UGH + no UGH,10063
+Generación programada P48 Anexo II RD 134/2010,10061
+Demanda proveedores del servicio de interrumpibilidad Sectores,10059
+Potencia residual de referencia agregada Vidrio,855
+Potencia residual de referencia,898
+Potencia residual de referencia agregada Cemento,896
+Potencia residual de referencia agregada Maquinaria,854
+Potencia residual de referencia agregada Química,853
+Potencia residual de referencia agregada Desalación,851
+Potencia residual de referencia agregada Papel,850
+Potencia residual de referencia agregada Varios,897
+Potencia residual de referencia agregada Metalurgia,852
+CO2 evitable,835
+Potencia residual de referencia agregada Madera,848
+Demanda proveedores del servicio de interrumpibilidad Varios,846
+Demanda proveedores del servicio de interrumpibilidad Cemento,845
+Demanda proveedores del servicio de interrumpibilidad Maquinaria,842
+Demanda proveedores del servicio de interrumpibilidad Desalación,839
+Demanda proveedores del servicio de interrumpibilidad Siderurgia,837
+Demanda proveedores del servicio de interrumpibilidad Madera,836
+Potencia residual de referencia agregada Siderurgia,849
+Demanda proveedores del servicio de interrumpibilidad,847
+Demanda proveedores del servicio de interrumpibilidad Vidrio,844
+Demanda proveedores del servicio de interrumpibilidad Metalurgia,840
+Demanda proveedores del servicio de interrumpibilidad Papel,838
+CO2 evitable Varios,834
+Demanda proveedores del servicio de interrumpibilidad Química,841
+CO2 evitable Madera,824
+CO2 evitable Cemento,833
+CO2 evitable Metalurgia,828
+CO2 evitable Desalación,827
+CO2 evitable Vidrio,832
+CO2 evitable Química,829
+CO2 evitable Papel,826
+CO2 evitable Maquinaria,831
+CO2 evitable Siderurgia,825
+Energía mensual final comercializadores de referencia cuota,819
+Energía anual final cuota,823
+Energía anual final comercialización libre cuota,821
+Energía mensual final cuota,820
+Energía mensual final contratación libre cuota,818
+Energía anual final comercializadores de referencia cuota,822
+Demanda en consumo diferencia generación - pérdidas,10058
+Nº de Clientes > 450 kW tarifa de acceso T.3 TRACCIÓN MAYOR DE 72.5 KV,1274
+Nº de Clientes > 450 kW tarifa de acceso T.2 TRACCIÓN MAYOR DE 36 KV Y NO SUPERIOR A 72.5 KV,1273
+Nº de Clientes > 450 kW tarifa de acceso T.1 TRACCIÓN NO SUPERIOR A 36 KV,1272
+Nº de Clientes > 450 kW tarifa de acceso G.6 GENERAL ALTA TENSIÓN CONEXIONES INTERNACIONALES,1270
+Nº de Clientes > 450 kW tarifa de acceso G.4 GENERAL ALTA TENSIÓN >= 72.5 KV Y < 145 KV,1268
+Nº de Clientes > 450 kW tarifa de acceso R.0 GENERAL BAJA TENSIÓN RIEGOS AGRÍCOLAS,1271
+Nº de Clientes > 450 kW tarifa de acceso G.5 GENERAL ALTA TENSIÓN > 145 KV,1269
+Nº de Clientes > 450 kW tarifa de acceso 6.1 >= 1 KV Y < 36 KV,1255
+Nº de Clientes > 450 kW tarifa de acceso G.3 GENERAL ALTA TENSIÓN >= 36 KV Y < 72.5 KV,1267
+Nº de Clientes > 450 kW tarifa de acceso G.2 GENERAL ALTA TENSIÓN >= 14 KV Y < 36 KV,1266
+Nº de Clientes > 450 kW tarifa de acceso G.1 GENERAL ALTA TENSIÓN >= 1 KV Y < 14 KV,1265
+Nº de Clientes > 450 kW tarifa de acceso D.4 DISTRIBUIDORES DE MAS DE 145 KV,1264
+Nº de Clientes > 450 kW tarifa de acceso D.2 DISTRIBUIDORES MAYOR DE 36 KV Y NO SUPERIOR A 72.5 KV,1262
+Nº de Clientes > 450 kW tarifa de acceso D.1 DISTRIBUIDORES NO SUPERIORES 36 KV,1261
+Nº de Clientes > 450 kW tarifa de acceso B.0 GENERAL BAJA TENSIÓN ALUMBRADO PÚBLICO,1260
+Nº de Clientes > 450 kW tarifa de acceso 6.5 CONEXIONES INTERNACIONALES,1259
+Nº de Clientes > 450 kW tarifa de acceso 6.4 >= 145 KV,1258
+Nº de Clientes > 450 kW tarifa de acceso 6.3 >= 72.5 KV Y < 145 KV,1257
+Nº de Clientes > 450 kW tarifa de acceso 6.2 >= 30 KV Y < 72.5 KV,1256
+Nº de Clientes > 450 kW tarifa de acceso 4.0 GENERAL BAJA TENSIÓN LARGA UTILIZACIÓN,1254
+Nº de Clientes > 450 kW tarifa de acceso 3.1A DE 1 A 36 KV DE TRES PERIODOS,1253
+Nº de Clientes > 450 kW tarifa de acceso 3.0A GENERAL BAJA TENSIÓN,1252
+Nº de Clientes > 450 kW tarifa de acceso D.3 DISTRIBUIDORES MAYOR DE 72.5 KV Y NO SUPERIOR A 145 KV,1263
+Nº de Clientes > 450 kW nivel de tensión E4 >= 72.5 kV y < 145 kV,1245
+Nº de Clientes > 450 kW nivel de tensión E5 >= 145 kV y < 220 kV,1246
+Nº de Clientes > 450 kW nivel de tensión E3 >= 36 kV y < 72.5 kV,1244
+Nº de Clientes > 450 kW discriminación horaria E4 TARIFA DE TRES PERIODOS CON DISCRIMINACIÓN HORARIA DE TIPO 4,1239
+Nº de Clientes > 450 kW discriminación horaria E3 TARIFA DE TRES PERIODOS,1238
+Nº de Clientes > 450 kW discriminación horaria E2 TARIFA DE DOS PERIODOS,1237
+Nº de Clientes > 450 kW discriminación horaria G0 GENERAL ALTA TENSIÓN,1235
+"Nº de Clientes > 450 kW tarifa de acceso 2.0 GENERAL BAJA TENSIÓN, POTENCIA NO SUPERIOR A 15 KW ",1249
+"Nº de Clientes > 450 kW tarifa de acceso 2.0 GENERAL BAJA TENSIÓN, POTENCIA NO SUPERIOR A 10 KW ",1251
+Nº de Clientes > 450 kW tarifa de acceso Sin tarifa de acceso,1248
+Nº de Clientes > 450 kW nivel de tensión E2 >= 14 kV y < 36 kV,1243
+Nº de Clientes > 450 kW nivel de tensión E0 Baja tensión,1241
+Nº de Clientes > 450 kW nivel de tensión Sin nivel tensión,1240
+Nº de Clientes > 450 kW discriminación horaria E1 TARIFA DE UN PERIODO,1236
+Nº de Clientes > 450 kW nivel de tensión E6 >= 220 kV,1247
+Nº de Clientes > 450 kW nivel de tensión E1 >= 1 kV y < 14 kV,1242
+"Nº de Clientes > 450 kW tarifa de acceso 2.1 GENERAL BAJA TENSIÓN, POTENCIA SUPERIOR A 10 KW Y NO SUPERIOR A 15 KW",1250
+Nº Puntos Frontera Distribución - Distribución,1184
+Nº de Clientes > 450 kW discriminación horaria Sin discriminación horaria,1191
+Nº Puntos Frontera Generación RO - Transporte,1189
+Nº Puntos Frontera Generación RE - Distribución,1187
+Nº Puntos Frontera Generación RE - Transporte,1186
+Nº Puntos Frontera Transporte - Internacional,1190
+Nº Puntos Frontera Generación RO - Distribución,1188
+Nº Puntos Frontera Distribución - Transporte,1185
+Energía total mercado de producción,10057
+Volumen absoluto de Energía utilizada de Regulación Secundaria,10056
+Volumen absoluto de asignación Regulación Terciaria,10055
+Volumen absoluto Asignación Gestión de Desvíos,10054
+Energía asignada seguridad intradiario,10053
+Volumen absoluto de Energía asignada por restricciones en tiempo real,10052
+Energía asignada restricciones técnicas diario Fase I,10051
+Energía asignada en Mercado SPOT Intradiario,10050
+Total Generación + Total Interconexiones medidas,10049
+Saldo total interconexiones medidas,10048
+Generación medida Saldo Andorra,10047
+Generación medida Saldo Marruecos,10046
+Generación medida Saldo Francia,10045
+Generación medida Saldo Portugal,10044
+Generación medida total,10043
+Total Generación + Total Interconexiones programada p48,10042
+Generación medida otras renovables,10041
+Generación medida Residuos no renovables,10040
+Generación medida cogeneración,10039
+Generación medida Fuel-gas,10038
+Generación medida Eólica,10037
+Generación medida Carbón,10036
+Generación medida Hidráulica,10035
+Demanda medida tarifa de acceso R.0 GENERAL BAJA TENSIÓN RIEGOS AGRÍCOLAS,1231
+Demanda medida tarifa de acceso T.3 TRACCIÓN MAYOR DE 72.5 KV,1234
+Demanda medida tarifa de acceso T.1 TRACCIÓN NO SUPERIOR A 36 KV,1232
+Demanda medida tarifa de acceso G.6 GENERAL ALTA TENSIÓN CONEXIONES INTERNACIONALES,1230
+Demanda medida tarifa de acceso T.2 TRACCIÓN MAYOR DE 36 KV Y NO SUPERIOR A 72.5 KV,1233
+Demanda medida tarifa de acceso 6.2 >= 30 KV Y < 72.5 KV,1216
+Demanda medida tarifa de acceso G.5 GENERAL ALTA TENSIÓN > 145 KV,1229
+Demanda medida tarifa de acceso G.3 GENERAL ALTA TENSIÓN >= 36 KV Y < 72.5 KV,1227
+Demanda medida tarifa de acceso G.1 GENERAL ALTA TENSIÓN >= 1 KV Y < 14 KV,1225
+Demanda medida tarifa de acceso D.2 DISTRIBUIDORES MAYOR DE 36 KV Y NO SUPERIOR A 72.5 KV,1222
+Demanda medida tarifa de acceso B.0 GENERAL BAJA TENSIÓN ALUMBRADO PÚBLICO,1220
+Demanda medida tarifa de acceso 6.5 CONEXIONES INTERNACIONALES,1219
+Demanda medida tarifa de acceso 4.0 GENERAL BAJA TENSIÓN LARGA UTILIZACIÓN,1214
+Demanda medida tarifa de acceso 3.1A DE 1 A 36 KV DE TRES PERIODOS,1213
+Demanda medida tarifa de acceso G.2 GENERAL ALTA TENSIÓN >= 14 KV Y < 36 KV,1226
+Demanda medida tarifa de acceso D.3 DISTRIBUIDORES MAYOR DE 72.5 KV Y NO SUPERIOR A 145 KV,1223
+Demanda medida tarifa de acceso D.1 DISTRIBUIDORES NO SUPERIORES 36 KV,1221
+Demanda medida tarifa de acceso 6.4 >= 145 KV,1218
+Demanda medida tarifa de acceso 6.3 >= 72.5 KV Y < 145 KV,1217
+Demanda medida tarifa de acceso 6.1 >= 1 KV Y < 36 KV,1215
+Demanda medida tarifa de acceso G.4 GENERAL ALTA TENSIÓN >= 72.5 KV Y < 145 KV,1228
+Demanda medida tarifa de acceso D.4 DISTRIBUIDORES DE MAS DE 145 KV,1224
+Demanda medida nivel de tensión E5 >= 145 kV y < 220 kV,1206
+"Demanda medida tarifa de acceso 2.0 GENERAL BAJA TENSIÓN, POTENCIA NO SUPERIOR A 10 KW ",1211
+"Demanda medida tarifa de acceso 2.0 GENERAL BAJA TENSIÓN, POTENCIA NO SUPERIOR A 15 KW ",1209
+Demanda medida tarifa de acceso Sin tarifa de acceso,1208
+Demanda medida nivel de tensión E3 >= 36 kV y < 72.5 kV,1204
+Demanda medida nivel de tensión E2 >= 14 kV y < 36 kV,1203
+Demanda medida nivel de tensión E0 Baja tensión,1201
+Demanda medida discriminación horaria E4 TARIFA DE TRES PERIODOS CON DISCRIMINACIÓN HORARIA DE TIPO 4,1199
+Demanda medida discriminación horaria E2 TARIFA DE DOS PERIODOS,1197
+Demanda medida tarifa de acceso 3.0A GENERAL BAJA TENSIÓN,1212
+"Demanda medida tarifa de acceso 2.1 GENERAL BAJA TENSIÓN, POTENCIA SUPERIOR A 10 KW Y NO SUPERIOR A 15 KW",1210
+Demanda medida nivel de tensión E6 >= 220 kV,1207
+Demanda medida nivel de tensión E4 >= 72.5 kV y < 145 kV,1205
+Demanda medida nivel de tensión E1 >= 1 kV y < 14 kV,1202
+Demanda medida nivel de tensión Sin nivel tensión,1200
+Demanda medida discriminación horaria E3 TARIFA DE TRES PERIODOS,1198
+Demanda medida discriminación horaria E1 TARIFA DE UN PERIODO,1196
+Demanda medida discriminación horaria G0 GENERAL ALTA TENSIÓN,1195
+Generación medida Exportación Andorra,1181
+Demanda en consumo,1193
+Demanda en barras de central ,1192
+Generación medida red de distribución,1183
+Demanda medida discriminación horaria Sin discriminación horaria,1194
+Generación medida red de transporte,1182
+Generación medida Enlace Baleares,1173
+Generación medida Residuos domésticos y similares,1170
+Generación medida Energía residual,1167
+Generación medida Derivados del petróleo ó carbón,1165
+Generación medida Exportación Portugal,1179
+Generación medida Importación Andorra,1177
+Generación medida Importación Portugal,1175
+Generación medida Exportación Marruecos,1180
+Generación medida Exportación Francia,1178
+Generación medida Importación Marruecos,1176
+Generación medida Importación Francia,1174
+Generación medida Consumo bombeo,1172
+Generación medida Residuos varios,1171
+Generación medida Biomasa,1168
+Generación medida Subproductos minería,1166
+Generación medida Gas Natural Cogeneración,1164
+Generación medida Biogás,1169
+Generación medida Hidráulica UGH,1150
+Generación medida Solar térmica,1162
+Generación medida Eólica marina,1160
+Generación medida Ciclo combinado,1156
+Generación medida Hulla sub-bituminosa,1155
+Generación medida Hulla antracita,1154
+Generación medida Nuclear,1153
+Generación medida Turbinación bombeo,1152
+Generación medida Océano y geotérmica,1163
+Generación medida Solar fotovoltaica,1161
+Generación medida Gas Natural,1158
+Generación medida Eólica terrestre,1159
+Generación medida Fuel,1157
+Generación medida Hidráulica no UGH,1151
+Precio medio de ofertas de balance presentadas por Portugal para exportación activadas por el SEE,1143
+Precio medio de ofertas de balance presentadas por Francia para exportación activadas por el SEE,1142
+Precio medio de ofertas de balance presentadas por Francia para importación activadas por el SEE,1140
+Precio medio de ofertas de balance presentadas por el SEE para importación,1138
+Energía de ofertas de balance presentadas por el SEE para exportación activadas por Portugal,697
+Energía de ofertas de balance presentadas por el SEE para exportación activadas por Francia,696
+Energía de ofertas de balance presentadas por el SEE para importación activadas por Francia,694
+Energía de ofertas de balance presentadas por Francia para exportación activadas por el SEE,692
+Precio medio de ofertas de balance presentadas por el SEE para exportación activadas por Francia,1146
+Energía de ofertas de balance presentadas por el SEE para importación activadas por Portugal,695
+Energía de ofertas de balance presentadas por Portugal para exportación activadas por el SEE,693
+Energía de ofertas de balance presentadas por Francia para importación activadas por el SEE,690
+Energía de ofertas de balance presentadas por Portugal para importación activadas por el SEE,691
+Precio medio de ofertas de balance presentadas por Portugal para importación activadas por el SEE,1141
+Precio medio de ofertas de balance presentadas por el SEE para exportación activadas por Portugal,1147
+Precio medio de ofertas de balance presentadas por el SEE para exportación,1139
+Precio medio de ofertas de balance presentadas por el SEE para importación activadas por Portugal,1145
+Precio medio de ofertas de balance presentadas por el SEE para importación activadas por Francia,1144
+Energía de ofertas de balance presentadas por el SEE para importación,688
+Energía de ofertas de balance presentadas por el SEE para exportación,689
+Generación prevista Solar,10034
+Porcentaje de generación libre de CO2,10033
+Balance de desvíos medidos total,10032
+Balance de desvíos medidos bajar,10031
+Balance de desvíos medidos subir,10030
+Energía horaria final contratación CUR cuota,10029
+Energía horaria final contratación libre cuota,10028
+Demanda programada P48 total,10027
+Saldo total interconexiones programa p48,10026
+Ajuste de programas p48,10025
+Generación programada + Consumo bombeo + Cable Baleares P48,10024
+Capacidad de intercambio disponible en la interconexión con Andorra exportación,10023
+Capacidad de intercambio disponible en la interconexión con Andorra importación,10022
+Capacidad de intercambio disponible en la interconexión con Marruecos exportación,10021
+Capacidad de intercambio disponible en la interconexión con Marruecos importación,10020
+Capacidad de intercambio disponible en la interconexión con Portugal exportación,10019
+Capacidad de intercambio disponible en la interconexión con Portugal importación,10018
+Generación programada P48 Saldo Andorra,10017
+Generación programada P48 Saldo Marruecos,10016
+Generación programada P48 Saldo Francia,10015
+Generación programada P48 Saldo Portugal,10014
+Generación programada P48 otras renovables,10013
+Generación programada P48 Residuos no renovables,10012
+Generación programada P48 Cogeneración,10011
+Generación programada P48 Eólica,10010
+Generación programada P48 Fuel-Gas,10009
+Generación programada P48 Carbón,10008
+Generación libre de CO2,10006
+Demanda real suma de generación,10004
+Potencia instalada total de generación convencional,10003
+Potencia disponible de generación total horizonte horario,10001
+Rentas de congestión mecanismos implícitos diario Francia importación,1117
+Rentas de congestión subastas explícitas intradiaria 1 Francia exportación,1110
+Capacidad Nominada subasta intradiaria 1 con Francia exportación,1102
+Pérdidas de distribución,1137
+Rentas de congestión mecanismos implícitos intradiario 7 Portugal exportación,1134
+Rentas de congestión mecanismos implícitos intradiario 6 Portugal exportación,1133
+Rentas de congestión mecanismos implícitos intradiario 4 Portugal exportación,1131
+Capacidad Nominada subasta intradiaria 2 con Francia importación,1103
+Capacidad Nominada subasta intradiaria 1 con Francia importación,1101
+Capacidad Nominada subasta diaria con Francia importación,1099
+Rentas de congestión mecanismos implícitos intradiario 2 Portugal exportación,1129
+Rentas de congestión mecanismos implícitos intradiario 7 Portugal importación,1127
+Rentas de congestión mecanismos implícitos intradiario 6 Portugal importación,1126
+Rentas de congestión mecanismos implícitos intradiario 4 Portugal importación,1124
+Rentas de congestión mecanismos implícitos intradiario 2 Portugal importación,1122
+Rentas de congestión mecanismos implícitos intradiario 1 Portugal importación,1121
+Rentas de congestión subastas explícitas mensual Francia exportación,1114
+Rentas de congestión subastas explícitas intradiaria 2 Francia exportación,1112
+Rentas de congestión subastas explícitas intradiaria 2 Francia importación,1111
+Rentas de congestión subastas explícitas intradiaria 1 Francia importación,1109
+Capacidad Nominada subasta anual+mensual con Francia exportación,1106
+Capacidad Nominada subasta intradiaria 2 con Francia exportación,1104
+Coste Mensual Countertrading (IPE +IFE),1135
+Rentas de congestión mecanismos implícitos intradiario 5 Portugal exportación,1132
+Rentas de congestión mecanismos implícitos intradiario 1 Portugal exportación,1128
+Rentas de congestión mecanismos implícitos intradiario 5 Portugal importación,1125
+Rentas de congestión mecanismos implícitos intradiario 3 Portugal importación,1123
+Rentas de congestión mecanismos implícitos diario Portugal exportación,1120
+Rentas de congestión subastas explícitas anual Francia exportación,1116
+Rentas de congestión subastas explícitas anual Francia importación,1115
+Rentas de congestión subastas explícitas mensual Francia importación,1113
+Rentas de congestión mecanismos implícitos diario Francia exportación,1118
+Rentas de congestión subastas explícitas diaria Francia exportación,1108
+Capacidad Nominada subasta anual+mensual con Francia importación,1105
+Capacidad Nominada subasta diaria con Francia exportación,1100
+Rentas de congestión mecanismos implícitos diario Portugal importación,1119
+Rentas de congestión subastas explícitas diaria Francia importación,1107
+Pérdidas de transporte,1136
+Rentas de congestión mecanismos implícitos intradiario 3 Portugal exportación,1130
+Participantes en subasta explícita diaria de capacidad en la interconexión con Francia sentido exportador,1050
+Precio de subasta explícita anual de capacidad en la interconexión con Francia sentido exportador,1088
+Precio de subasta explícita anual de capacidad en la interconexión con Francia sentido importador,1087
+Capacidad asignada en subasta explícita intradiaria 1 de capacidad en la interconexión con Francia sentido importador,1061
+Participantes en subasta explícita anual de capacidad en la interconexión con Francia sentido importador,1081
+Capacidad asignada en subasta explícita mensual de capacidad en la interconexión con Francia sentido exportador,1078
+Capacidad asignada en subasta explícita mensual de capacidad en la interconexión con Francia sentido importador,1077
+Capacidad asignada en subasta explícita anual de capacidad en la interconexión con Francia sentido exportador,1086
+Sujetos asignados en subasta explícita anual de capacidad en la interconexión con Francia sentido exportador,1084
+Sujetos asignados en subasta explícita mensual de capacidad en la interconexión con Francia sentido importador,1075
+Participantes en subasta explícita mensual de capacidad en la interconexión con Francia sentido exportador,1074
+Precio de subasta explícita intradiaria 2 de capacidad en la interconexión con Francia sentido exportador,1072
+Sujetos asignados en subasta explícita anual de capacidad en la interconexión con Francia sentido importador,1083
+Capacidad asignada en subasta explícita intradiaria 2 de capacidad en la interconexión con Francia sentido exportador,1070
+Capacidad asignada en subasta explícita intradiaria 2 de capacidad en la interconexión con Francia sentido importador,1069
+Sujetos asignados en subasta explícita intradiaria 2 de capacidad en la interconexión con Francia sentido importador,1067
+Precio de subasta explícita intradiaria 1 de capacidad en la interconexión con Francia sentido importador,1063
+Sujetos asignados en subasta explícita intradiaria 1 de capacidad en la interconexión con Francia sentido exportador,1060
+Participantes en subasta explícita intradiaria 1 de capacidad en la interconexión con Francia sentido importador,1057
+Precio de subasta explícita diaria de capacidad en la interconexión con Francia sentido importador,1055
+Sujetos asignados en subasta explícita diaria de capacidad en la interconexión con Francia sentido exportador,1052
+Participantes en subasta explícita diaria de capacidad en la interconexión con Francia sentido importador,1049
+Capacidad ofrecida subasta explícita anual de capacidad en la interconexión con Francia sentido importador,1047
+Capacidad ofrecida subasta explícita intradiaria2 de capacidad en la interconexión con Francia sentido exportador,1044
+Capacidad asignada en subasta explícita anual de capacidad en la interconexión con Francia sentido importador,1085
+Participantes en subasta explícita anual de capacidad en la interconexión con Francia sentido exportador,1082
+Precio de subasta explícita mensual de capacidad en la interconexión con Francia sentido importador,1079
+Sujetos asignados en subasta explícita mensual de capacidad en la interconexión con Francia sentido exportador,1076
+Participantes en subasta explícita mensual de capacidad en la interconexión con Francia sentido importador,1073
+Precio de subasta explícita intradiaria 2 de capacidad en la interconexión con Francia sentido importador,1071
+Sujetos asignados en subasta explícita intradiaria 2 de capacidad en la interconexión con Francia sentido exportador,1068
+Participantes en subasta explícita intradiaria 2 de capacidad en la interconexión con Francia sentido exportador,1066
+Precio de subasta explícita intradiaria 1 de capacidad en la interconexión con Francia sentido exportador,1064
+Capacidad asignada en subasta explícita intradiaria 1 de capacidad en la interconexión con Francia sentido exportador,1062
+Sujetos asignados en subasta explícita intradiaria 1 de capacidad en la interconexión con Francia sentido importador,1059
+Participantes en subasta explícita intradiaria 1 de capacidad en la interconexión con Francia sentido exportador,1058
+Precio de subasta explícita diaria de capacidad en la interconexión con Francia sentido exportador,1056
+Capacidad asignada en subasta explícita diaria de capacidad en la interconexión con Francia sentido exportador,1054
+Capacidad asignada en subasta explícita diaria de capacidad en la interconexión con Francia sentido importador,1053
+Participantes en subasta explícita intradiaria 2 de capacidad en la interconexión con Francia sentido importador,1065
+Sujetos asignados en subasta explícita diaria de capacidad en la interconexión con Francia sentido importador,1051
+Capacidad ofrecida subasta explícita anual de capacidad en la interconexión con Francia sentido exportador,1048
+Capacidad ofrecida subasta explícita mensual de capacidad en la interconexión con Francia sentido exportador,1046
+Capacidad ofrecida subasta explícita mensual de capacidad en la interconexión con Francia sentido importador,1045
+Precio de subasta explícita mensual de capacidad en la interconexión con Francia sentido exportador,1080
+Desglose eficiencia 2 periodos (DHA) 2.0.DHA Pago por capacidad,1026
+Desglose vehículo eléctrico 2.0.DHS Peaje de acceso,1032
+Desglose vehículo eléctrico 2.0.DHS Mercado diario e intradiario,1030
+Capacidad ofrecida subasta explícita intradiaria1 de capacidad en la interconexión con Francia sentido importador,1041
+Ingresos mensuales de balance (IMB),1038
+Gastos mensuales de balance (GMB),1037
+Desglose vehículo eléctrico 2.0.DHS Financiación OM,1036
+Desglose vehículo eléctrico 2.0.DHS Financiación OS,1035
+Desglose vehículo eléctrico 2.0.DHS Pago por capacidad,1033
+Desglose vehículo eléctrico 2.0.DHS Servicios de ajuste,1031
+Desglose eficiencia 2 periodos (DHA) 2.0.DHA Financiación OS,1028
+Desglose eficiencia 2 periodos (DHA) 2.0.DHA Mercado diario e intradiario,1023
+Desglose peaje por defecto 2.0.A Financiación OS,1021
+Desglose peaje por defecto 2.0.A Peaje de acceso,1018
+Desglose peaje por defecto 2.0.A Mercado diario e intradiario,1016
+Término de facturación de energía activa del PVPC eficiencia 2 periodos (DHA),1014
+Energía anual final,1012
+Capacidad ofrecida subasta explícita diaria de capacidad en la interconexión con Francia sentido exportador,1040
+Capacidad ofrecida subasta explícita diaria de capacidad en la interconexión con Francia sentido importador,1039
+Desglose eficiencia 2 periodos (DHA) 2.0.DHA Financiación OM,1029
+Desglose eficiencia 2 periodos (DHA) 2.0.DHA Servicio de interrumpibilidad,1027
+Desglose eficiencia 2 periodos (DHA) 2.0.DHA Peaje de acceso,1025
+Desglose peaje por defecto 2.0.A Financiación OM,1022
+Desglose peaje por defecto 2.0.A Servicio de interrumpibilidad,1020
+Desglose peaje por defecto 2.0.A Pago por capacidad,1019
+Desglose peaje por defecto 2.0.A Servicios de ajuste,1017
+Término de facturación de energía activa del PVPC vehículo eléctrico,1015
+Término de facturación de energía activa del PVPC peaje por defecto,1013
+Energía anual final comercializadores de referencia,999
+Capacidad ofrecida subasta explícita intradiaria1 de capacidad en la interconexión con Francia sentido exportador,1042
+Capacidad ofrecida subasta explícita intradiaria2 de capacidad en la interconexión con Francia sentido importador,1043
+Desglose eficiencia 2 periodos (DHA) 2.0.DHA Servicios de ajuste,1024
+Desglose vehículo eléctrico 2.0.DHS Servicio de interrumpibilidad,1034
+Precio medio anual componente restricciones intradiario,965
+Energía anual final comercialización libre,986
+Precio medio anual componente fallo nominación UPG,972
+Precio medio anual componente pago de capacidad,970
+Precio medio anual componente desvíos medidos,968
+Precio medio anual componente reserva de potencia adicional a subir,966
+Precio medio anual final,973
+Precio medio anual componente saldo P.O.14.6,971
+Precio medio anual componente saldo de desvíos,969
+Precio medio anual componente banda secundaria,967
+Precio medio anual componente mercado intradiario contratación libre,938
+Precio medio anual componente restricciones tiempo real,963
+Precio medio anual componente mercado diario,961
+Precio medio anual componente fallo nominación UPG comercialización de referencia,959
+Precio medio anual componente pago de capacidad comercialización de referencia,957
+Precio medio anual componente desvíos medidos comercialización de referencia,955
+Precio medio anual componente banda secundaria comercialización de referencia,954
+Precio medio anual componente restricciones intradiario comercialización de referencia,952
+Precio medio anual componente restricciones tiempo real comercialización de referencia,950
+Precio medio anual componente mercado diario comercialización de referencia,948
+Precio medio anual final contratación libre,947
+Precio medio anual componente reserva de potencia adicional a subir contratación libre,940
+Precio medio anual componente restricciones intradiario contratación libre,939
+Precio medio anual componente restricciones tiempo real contratación libre,937
+Precio medio anual componente mercado diario contratación libre,935
+Energía mensual final,934
+Precio medio anual componente mercado intradiario,964
+Precio medio anual final comercialización de referencia,960
+Precio medio anual componente saldo P.O.14.6 comercialización de referencia,958
+Precio medio anual componente saldo de desvíos comercialización de referencia,956
+Precio medio anual componente reserva de potencia adicional a subir comercialización de referencia,953
+Precio medio anual componente mercado intradiario comercialización de referencia,951
+Precio medio anual componente restricciones PBF comercialización de referencia,949
+Precio medio anual componente fallo nominación UPG contratación libre,946
+Precio medio anual componente saldo P.O.14.6 contratación libre,945
+Precio medio anual componente pago de capacidad contratación libre,944
+Precio medio anual componente saldo de desvíos contratación libre,943
+Precio medio anual componente banda secundaria contratación libre,941
+Precio medio anual componente restricciones PBF contratación libre,936
+Precio medio anual componente restricciones PBF,962
+Precio medio anual componente desvíos medidos contratación libre,942
+Precio medio mensual componente reserva de potencia adicional a subir,888
+Energía mensual final comercializador de referencia,921
+Energía mensual final contratación libre,908
+Precio medio mensual componente fallo nominación UPG,894
+Precio medio mensual componente pago de capacidad,892
+Precio medio mensual componente desvíos medidos,890
+Precio medio mensual componente banda secundaria,889
+Precio medio mensual componente restricciones intradiario,887
+Precio medio mensual final,895
+Precio medio mensual componente saldo P.O.14.6,893
+Precio medio mensual componente saldo de desvíos,891
+Precio medio mensual componente saldo de desvíos comercialización de referencia,878
+Precio medio mensual componente reserva de potencia adicional a subir comercialización de referencia,875
+Precio medio mensual componente mercado intradiario comercialización de referencia,873
+Precio medio mensual componente restricciones PBF comercialización de referencia,871
+Precio medio mensual componente mercado diario comercialización de referencia,870
+Precio medio mensual componente restricciones tiempo real,885
+Precio medio mensual componente desvíos medidos comercialización de referencia,877
+Precio medio mensual componente restricciones intradiario comercialización de referencia,874
+Precio medio mensual componente restricciones tiempo real comercialización de referencia,872
+Precio medio mensual final contratación libre,869
+Precio medio mensual componente mercado intradiario,886
+Precio medio mensual componente restricciones PBF,884
+Precio medio mensual componente mercado diario,883
+Precio medio mensual componente fallo nominación UPG comercialización de referencia,881
+Precio medio mensual componente saldo P.O.14.6 comercialización de referencia,880
+Precio medio mensual componente banda secundaria comercialización de referencia,876
+Precio medio mensual componente pago de capacidad comercialización de referencia,879
+Precio medio mensual final comercialización de referencia,882
+Energía horaria final ,856
+Precio medio mensual componente fallo nominación UPG contratación libre,868
+Precio medio mensual componente pago de capacidad contratación libre,866
+Precio medio mensual componente desvíos medidos contratación libre,864
+Precio medio mensual componente reserva de potencia adicional a subir contratación libre,862
+Precio medio mensual componente mercado intradiario contratación libre,860
+Precio medio mensual componente restricciones tiempo real contratación libre,859
+Precio medio mensual componente mercado diario contratación libre,857
+Precio medio mensual componente saldo P.O.14.6 contratación libre,867
+Precio medio mensual componente saldo de desvíos contratación libre,865
+Precio medio mensual componente banda secundaria contratación libre,863
+Precio medio mensual componente restricciones intradiario contratación libre,861
+Precio medio mensual componente restricciones PBF contratación libre,858
+Energía horaria final comercializadores último recurso,830
+Energía horaria final comercialización libre,843
+Precio medio horario componente saldo P.O.14.6 contratación libre,802
+Precio medio horario final,817
+Precio medio horario componente saldo P.O.14.6 ,815
+Precio medio horario componente pago de capacidad ,814
+Precio medio horario componente desvíos medidos ,812
+Precio medio horario componente reserva de potencia adicional a subir ,810
+Precio medio horario componente restricciones intradiario ,809
+Precio medio horario componente restricciones tiempo real ,807
+Precio medio horario componente mercado diario ,805
+Precio medio horario final contratación libre,804
+Precio medio horario componente fallo nominación UPG contratación libre,803
+Precio medio horario componente pago de capacidad contratación libre,801
+Precio medio horario componente desvíos medidos contratación libre,799
+Precio medio horario componente reserva de potencia adicional a subir contratación libre,797
+Precio medio horario componente restricciones PBF ,806
+Precio medio horario componente saldo de desvíos contratación libre,800
+Precio medio horario componente banda secundaria contratación libre,798
+Precio medio horario componente fallo nominación UPG ,816
+Precio medio horario componente saldo de desvíos ,813
+Precio medio horario componente banda secundaria ,811
+Precio medio horario componente mercado intradiario ,808
+Pagos por capacidad tarifa 2.1.DHS,777
+Precio medio horario componente saldo P.O.14.6 comercializadores de referencia,789
+Precio medio horario componente pago de capacidad comercializadores de referencia,788
+Precio medio horario componente desvíos medidos comercializadores de referencia,786
+Precio medio horario componente reserva de potencia adicional a subir comercializadores de referencia,784
+Precio medio horario componente restricciones intradiario comercializadores de referencia,783
+Pagos por capacidad tarifa 2.1A,775
+Pagos por capacidad tarifa 2.0.DHS,774
+Precio medio horario componente restricciones intradiario contratación libre,796
+Precio medio horario componente restricciones tiempo real contratación libre,794
+Precio medio horario final comercializadores de referencia,791
+Precio medio horario componente mercado intradiario contratación libre,795
+Precio medio horario componente mercado diario contratación libre,792
+Precio medio horario componente fallo nominación UPG comercializadores de referencia,790
+Precio medio horario componente saldo de desvíos comercializadores de referencia,787
+Precio medio horario componente banda secundaria comercializadores de referencia,785
+Precio medio horario componente mercado intradiario comercializadores de referencia,782
+Precio medio horario componente restricciones PBF comercializadores de referencia,780
+Precio medio horario componente mercado diario comercializadores de referencia,779
+Precio medio pagos por capacidad para demanda,778
+Pagos por capacidad tarifa 2.1.DHA,776
+Precio medio horario componente restricciones PBF contratación libre,793
+Precio medio horario componente restricciones tiempo real comercializadores de referencia,781
+Pagos por capacidad tarifa 2.0.A,769
+Pagos por capacidad tarifa 3.1A,772
+Ingreso/Coste unitario para la demanda por el excedente/déficit de los desvíos,768
+Exceso/déficit de desvíos medidos,767
+Precio del desvío medido entre precio marginal diario a subir,765
+Precio de los desvíos medidos a bajar,764
+"Energía neta de gestión de desvíos, regulación terciaria y regulación secundaria",762
+Balance de desvíos medidos desvíos exportación bajar,760
+Balance de desvíos medidos desvíos distribuidores bajar,758
+Balance de desvíos medidos desvíos RCR solar bajar,756
+Balance de desvíos medidos desvíos RCR hidráulico bajar,755
+Balance de desvíos medidos desvíos zonas regulación bajar,752
+Balance de desvíos medidos secundaria bajar,750
+Pagos por capacidad tarifa seis periodos,773
+Pagos por capacidad tarifa 2.0.DHA,770
+Precio del desvío medido entre precio marginal diario a bajar,766
+Precio de los desvíos medidos a subir,763
+Balance de desvíos medidos desvíos entre sistemas bajar,761
+Balance de desvíos medidos desvíos comercializadores bajar,759
+Balance de desvíos medidos desvíos RCR eólico bajar,757
+Balance de desvíos medidos desvíos RCR térmico bajar,754
+Balance de desvíos medidos desvíos GC sin zona bajar,751
+Pagos por capacidad tarifa 3.0A,771
+Balance de desvíos medidos desvíos importación bajar,753
+Balance de desvíos medidos desvíos RCR hidráulico subir,738
+Balance de desvíos medidos gestión desvíos bajar,748
+Balance de desvíos medidos intercambios de apoyo bajar,747
+Balance de desvíos medidos restricciones tiempo real bajar,745
+Balance de desvíos medidos desvíos exportación subir,743
+Balance de desvíos medidos desvíos importación subir,736
+Balance de desvíos medidos desvíos zonas regulación subir,735
+Balance de desvíos medidos secundaria subir,733
+Balance de desvíos medidos terciaria subir,732
+Balance de desvíos medidos intercambios de apoyo subir,730
+Balance de desvíos medidos desvíos RCR térmico subir,737
+Balance de desvíos medidos desvíos GC sin zona subir,734
+Balance de desvíos medidos gestión desvíos subir,731
+Balance de desvíos medidos acciones de balance subir,729
+Coste de los desvíos medidos de menor producción,727
+Coste de los desvíos medidos de mayor producción,726
+Balance de desvíos medidos acciones de balance bajar,746
+Balance de desvíos medidos desvíos entre sistemas subir,744
+Balance de desvíos medidos desvíos distribuidores subir,741
+Balance de desvíos medidos desvíos RCR eólico subir,740
+Balance de desvíos medidos desvíos RCR solar subir,739
+Balance de desvíos medidos restricciones tiempo real subir,728
+Balance de desvíos medidos terciaria bajar,749
+Balance de desvíos medidos desvíos comercializadores subir,742
+Energía asignada por restricciones en tiempo real a subir,720
+Coste del proceso de solución de Restricciones Técnicas de Seguridad en Tiempo Real,724
+Precio medio de solución de Restricciones Técnicas de Seguridad en Tiempo Real subir,722
+Coste unitario soportado por la demanda del proceso de solución de Restricciones Técnicas de Seguridad en Tiempo Real,725
+Energía asignada por restricciones en tiempo real a bajar,721
+Obligaciones de Pago por energía de Regulación Secundaria utilizada,719
+Derechos de Cobro por energía de Regulación Secundaria utilizada,718
+Derechos de Cobro del proceso de Regulación de Terciaria,716
+Derechos de Cobro del proceso de Gestión de Desvíos,714
+Coste unitario soportado por la demanda de banda de Regulación Secundaria,713
+Coste de solución de Restricciones técnicas diario,709
+Precio medio restricciones técnicas diario Fase II subir,707
+Precio medio restricciones técnicas diario Fase I subir,705
+Energía asignada restricciones técnicas diario Fase II bajar,704
+Energía asignada restricciones técnicas diario Fase I bajar,702
+Precio medio de solución de Restricciones Técnicas de Seguridad en Tiempo Real bajar,723
+Obligaciones de Pago del proceso de Regulación de Terciaria,717
+Obligaciones de Pago del proceso de Gestión de Desvíos,715
+Coste de banda de Regulación Secundaria,712
+Coste de Reserva de Potencia Adicional a Subir,711
+Precio medio restricciones técnicas diario Fase II bajar,708
+Precio medio restricciones técnicas diario Fase I bajar,706
+Energía asignada restricciones técnicas diario Fase II subir,703
+Energía asignada restricciones técnicas diario Fase I subir,701
+Coste unitario soportado por demanda de solución de Restricciones técnicas diario,710
+Precio Regulación Terciaria subir,677
+Coste de solución de Restricciones por Garantía de Suministro,700
+Energía de solución de restricciones por Garantía de suministro fase II,699
+Energía utilizada de Regulación Secundaria bajar,681
+Energía utilizada de Regulación Secundaria subir,680
+Energía de solución de restricciones por Garantía de suministro fase I,698
+Precio de pago desvíos a bajar,687
+Precio de cobro desvíos a subir,686
+Coste del desvíos contrario respecto al precio del mercado SPOT diario,685
+Sentido de los desvíos contrarios al sistema,684
+Precio de Regulación Secundaria bajar,683
+Precio de Regulación Secundaria subir,682
+Energía equilibrio generación-demanda mercado seguridad intradiario sesión 2 bajar,658
+Energía equilibrio generación-demanda mercado seguridad intradiario sesión 3 bajar,659
+Energía equilibrio generación-demanda mercado seguridad intradiario sesión 1 bajar,657
+Precio Regulación Terciaria bajar,676
+Asignación Regulación Terciaria subir,675
+Precio Gestión de Desvíos subir,668
+Asignación Gestión de Desvíos subir,666
+Energía equilibrio generación-demanda mercado seguridad intradiario sesión 7 bajar,663
+Energía equilibrio generación-demanda mercado seguridad intradiario sesión 6 bajar,662
+Energía equilibrio generación-demanda mercado seguridad intradiario sesión 4 bajar,660
+Asignación Regulación Terciaria bajar,674
+Precio Gestión de Desvíos bajar,669
+Asignación Gestión de Desvíos bajar,667
+Requerimientos Gestión de Desvíos bajar,665
+Requerimientos Gestión de Desvíos subir,664
+Energía equilibrio generación-demanda mercado seguridad intradiario sesión 5 bajar,661
+Requerimientos Regulación Terciaria bajar,673
+Requerimientos Regulación Terciaria subir,672
+Asignación Banda de regulación secundaria a bajar,633
+Energía equilibrio generación-demanda mercado seguridad intradiario sesión 6 subir,655
+Energía equilibrio generación-demanda mercado seguridad intradiario sesión 5 subir,654
+Energía equilibrio generación-demanda mercado seguridad intradiario sesión 3 subir,652
+Energía equilibrio generación-demanda mercado seguridad intradiario sesión 1 subir,650
+Energía Solución de Restricciones técnicas del mercado seguridad del intradiario sesión 7 bajar,649
+Energía Solución de Restricciones técnicas del mercado seguridad del intradiario sesión 5 bajar,647
+Energía Solución de Restricciones técnicas del mercado seguridad del intradiario sesión 3 bajar,645
+Energía Solución de Restricciones técnicas del mercado seguridad del intradiario sesión 1 bajar,643
+Energía Solución de Restricciones técnicas del mercado seguridad del intradiario sesión 5 subir,640
+Energía Solución de Restricciones técnicas del mercado seguridad del intradiario sesión 3 subir,638
+Energía Solución de Restricciones técnicas del mercado seguridad del intradiario sesión 1 subir,636
+Precio Banda de regulación secundaria,634
+Energía Solución de Restricciones técnicas del mercado seguridad del intradiario sesión 2 bajar,644
+Energía Solución de Restricciones técnicas del mercado seguridad del intradiario sesión 6 subir,641
+Energía Solución de Restricciones técnicas del mercado seguridad del intradiario sesión 4 subir,639
+Energía Solución de Restricciones técnicas del mercado seguridad del intradiario sesión 2 subir,637
+Energía Solución de Restricciones técnicas del mercado seguridad del intradiario sesión 7 subir,642
+Energía equilibrio generación-demanda mercado seguridad intradiario sesión 7 subir,656
+Energía equilibrio generación-demanda mercado seguridad intradiario sesión 4 subir,653
+Energía equilibrio generación-demanda mercado seguridad intradiario sesión 2 subir,651
+Energía Solución de Restricciones técnicas del mercado seguridad del intradiario sesión 6 bajar,648
+Energía Solución de Restricciones técnicas del mercado seguridad del intradiario sesión 4 bajar,646
+Previsión mínima mensual de la demanda eléctrica peninsular,619
+Asignación Banda de regulación secundaria a subir,632
+Índice de llenado medio semanal de almacenamiento hidráulico,623
+Previsión mínima anual de la demanda eléctrica peninsular,621
+Precio mercado SPOT Intradiario Sesión 7,618
+Precio mercado SPOT Intradiario Sesión 5,616
+Precio mercado SPOT Intradiario Sesión 4,615
+Precio mercado SPOT Intradiario Sesión 2,613
+Energía asignada en Mercado SPOT Intradiario sesión 7,611
+Demanda real máximo diario,624
+Requerimientos Banda de regulación secundaria a bajar,631
+Margen generación disponible - máxima demanda prevista,622
+Requerimientos Banda de regulación secundaria a subir,630
+Precio Reserva de potencia adicional a subir,628
+Asignación Reserva de potencia adicional a subir,627
+Previsión máxima anual de la demanda eléctrica peninsular,620
+Requerimientos Reserva de potencia adicional a subir,626
+Precio mercado SPOT Intradiario Sesión 6,617
+Precio mercado SPOT Intradiario Sesión 3,614
+Precio mercado SPOT Intradiario Sesión 1,612
+Energía asignada en Mercado SPOT Intradiario sesión 6,610
+Demanda real mínimo diario,625
+Precio mercado SPOT Diario,600
+Energía asignada en Mercado SPOT Intradiario sesión 5,609
+Energía asignada en Mercado SPOT Intradiario sesión 4,608
+Energía asignada en Mercado SPOT Intradiario sesión 2,606
+Previsión máxima mensual de la demanda eléctrica peninsular,604
+Previsión semanal de la demanda eléctrica peninsular,603
+Energía asignada en Mercado SPOT Intradiario sesión 3,607
+Energía asignada en Mercado SPOT Intradiario sesión 1,605
+Energía asignada en Mercado SPOT Diario España,602
+Precio Mallorca-Menorca sin enlace,579
+Precio medio de la generación en los SNP por sistema,574
+Programas horarios en el enlace Península - Baleares sentido Península-Baleares,572
+Programas horarios en el enlace Península - Baleares sentido Baleares-Península,571
+Precio Mallorca-Menorca con enlace,578
+Precio medio de la demanda en los SNP por sistema,573
+Capacidad prevista en el enlace Península - Baleares,570
+Programas de countertrading Portugal exportación,567
+Posición Neta diaria Sistema Peninsular con Portugal y Francia importación,568
+Posición Neta diaria Sistema Peninsular con Portugal y Francia exportación,569
+Saldo horario de interconexión con Portugal exportación telemedidas,561
+Programas de countertrading Francia exportación,565
+Programas de countertrading Francia importación,564
+Programas de countertrading Portugal importación,566
+Saldo horario de interconexión con Marruecos exportación telemedidas,563
+Saldo horario de interconexión con Andorra exportación telemedidas,562
+Saldo horario de interconexión con Francia exportación telemedidas,560
+Saldo horario de interconexión con Marruecos importación telemedidas,559
+Saldo horario de interconexión con Portugal importación telemedidas,557
+Saldo horario de interconexión con Andorra importación telemedidas,558
+Saldo horario de interconexión con Francia importación telemedidas,556
+Resto generación T.Real,555
+Generación T.Real eólica,551
+Generación T.Real intercambios,553
+Generación T.Real C.Combinado,550
+Generación T.Real enlace balear,554
+Generación T.Real solar,552
+Generación T.Real hidráulica,546
+Generación T.Real nuclear,549
+Generación T.Real fuel-gas,548
+Generación T.Real carbón,547
+Demanda programada,545
+Previsión de la producción eólica nacional peninsular,541
+Demanda prevista,544
+Generación prevista Solar fotovoltaica,542
+Programas balance transfronterizo con Portugal exportación,540
+Generación prevista Solar térmica,543
+Programa comercial en la interconexión con Francia exportación,534
+Programas balance transfronterizo con Portugal importación,539
+Programa saldo del mercado en la interconexión con Portugal importación,537
+Programas balance transfronterizo con Francia importación,535
+Programa saldo del mercado en la interconexión con Portugal exportación,538
+Programas balance transfronterizo con Francia exportación,536
+Programa comercial en la interconexión con Francia importación,533
+Perfil final de consumo D (tarifa 2.0.DHS),532
+Perfil final de consumo B (tarifa 2.0.DHA),530
+Perfil final de consumo C (tarifa 3.0A),531
+Perfil final de consumo A (tarifa 2.0.A),529
+Capacidad de intercambio prevista en la interconexión con Francia horizonte año móvil exportación,522
+Perfiles de consumo a efectos de facturación del PVPC Tarifa 2.0.DHS (vehículo eléctrico),528
+Perfiles de consumo a efectos de facturación del PVPC Tarifa 2.0.A (peaje por defecto),526
+Capacidad de intercambio prevista en la interconexión con Marruecos horizonte año móvil exportación,524
+Capacidad de intercambio prevista en la interconexión con Portugal horizonte año móvil exportación,523
+Perfiles de consumo a efectos de facturación del PVPC Tarifa 2.0.DHA (Eficiencia 2 periodos),527
+Capacidad de intercambio prevista en la interconexión con Andorra horizonte año móvil exportación,525
+Capacidad de intercambio prevista en la interconexión con Marruecos horizonte año móvil importación,520
+Capacidad de intercambio prevista en la interconexión con Francia horizonte año móvil importación,518
+Capacidad de intercambio prevista en la interconexión con Andorra horizonte año móvil importación,521
+Capacidad de intercambio prevista en la interconexión con Andorra horizonte mensual exportación,517
+Capacidad de intercambio prevista en la interconexión con Portugal horizonte año móvil importación,519
+Capacidad de intercambio prevista en la interconexión con Francia horizonte mensual exportación,514
+Capacidad de intercambio prevista en la interconexión con Marruecos horizonte mensual exportación,516
+Capacidad de intercambio prevista en la interconexión con Andorra horizonte mensual importación,513
+Capacidad de intercambio prevista en la interconexión con Portugal horizonte mensual importación,511
+Capacidad de intercambio prevista en la interconexión con Portugal horizonte mensual exportación,515
+Capacidad de intercambio prevista en la interconexión con Marruecos horizonte mensual importación,512
+Capacidad de intercambio ATC en la interconexiones con Francia horizonte diario importación,506
+Capacidad de intercambio prevista en la interconexión con Francia horizonte mensual importación,510
+Capacidad de intercambio ATC en la interconexiones con Francia horizonte diario exportación,507
+Capacidad de intercambio prevista en la interconexión con Marruecos horizonte semanal importación,500
+Capacidad de intercambio prevista en la interconexión con Marruecos horizonte semanal exportación,504
+Capacidad de intercambio prevista en la interconexión con Portugal horizonte semanal exportación,503
+Capacidad de intercambio prevista en la interconexión con Andorra horizonte semanal importación,501
+Capacidad de intercambio prevista en la interconexión con Andorra horizonte semanal exportación,505
+Capacidad de intercambio prevista en la interconexión con Francia horizonte semanal exportación,502
+Capacidad de intercambio comercial en la interconexión con Andorra exportación,495
+Capacidad de intercambio prevista en la interconexión con Portugal horizonte semanal importación,499
+Capacidad de intercambio autorizada en la interconexión con Francia importación,496
+Capacidad de intercambio autorizada en la interconexión con Francia exportación,497
+Capacidad de intercambio prevista en la interconexión con Francia horizonte semanal importación,498
+Capacidad de intercambio comercial en la interconexión con Andorra importación,491
+Capacidad de intercambio comercial en la interconexión con Marruecos exportación,494
+Capacidad de intercambio comercial en la interconexión con Portugal exportación,493
+Capacidad de intercambio comercial en la interconexión con Francia exportación,492
+Capacidad de intercambio comercial en la interconexión con Marruecos importación,490
+Capacidad de intercambio comercial en la interconexión con Francia importación,488
+Capacidad de intercambio comercial en la interconexión con Portugal importación,489
+Potencia disponible de generación Gas Natural horizonte año móvil,487
+Potencia disponible de generación Ciclo combinado horizonte año móvil,485
+Potencia disponible de generación Fuel horizonte año móvil,486
+Potencia disponible de generación Hulla sub-bituminosa horizonte año móvil,484
+Potencia disponible de generación Gas Natural horizonte horario,479
+Potencia disponible de generación Hulla antracita horizonte año móvil,483
+Potencia disponible de generación Turbinación bombeo horizonte año móvil,481
+Potencia disponible de generación Hidráulica UGH horizonte año móvil,480
+Potencia disponible de generación Nuclear horizonte año móvil,482
+Potencia disponible de generación Nuclear horizonte horario,474
+Potencia disponible de generación Fuel horizonte horario,478
+Potencia disponible de generación Hulla sub-bituminosa horizonte horario,476
+Potencia disponible de generación Hulla antracita horizonte horario,475
+Potencia disponible de generación Turbinación bombeo horizonte horario,473
+Potencia disponible de generación Ciclo combinado horizonte horario,477
+Potencia disponible de generación Hidráulica UGH horizonte horario,472
+Potencia instalada de generación Fuel,470
+Potencia instalada de generación Hulla sub-bituminosa,468
+Potencia instalada de generación Hulla antracita,467
+Potencia instalada de generación Gas Natural,471
+Potencia instalada de generación Ciclo combinado,469
+Previsión mensual de la demanda eléctrica peninsular,461
+Potencia instalada de generación Turbinación bombeo,465
+Potencia indisponible de generación en el cierre,463
+Potencia indisponible de generación en PBF,462
+Potencia instalada de generación Nuclear,466
+Potencia instalada de generación Hidráulica UGH,464
+Programa bilateral PBF Comercialización Último Recurso,457
+Previsión diaria de la demanda eléctrica peninsular,460
+Programa bilateral PBF Consumo Directo en Mercado,458
+Programa bilateral PBF Comercialización Mercado Libre bajar,456
+Programa bilateral PBF Genéricas bajar,459
+Programa bilateral PBF Genéricas ventas,455
+Programa bilateral PBF Exportación Andorra,453
+Programa bilateral PBF Exportación Marruecos,452
+Programa bilateral PBF Exportación Francia,450
+Programa bilateral PBF Comercialización Mercado Libre ventas,454
+Programa bilateral PBF Exportación Portugal,451
+Programa bilateral PBF Importación Francia,446
+Programa bilateral PBF Importación Marruecos,448
+Programa bilateral PBF Importación Portugal,447
+Programa bilateral PBF Consumo bombeo,445
+Programa bilateral PBF Residuos varios,444
+Programa bilateral PBF Importación Andorra,449
+Programa bilateral PBF Residuos domésticos y similares,443
+Programa bilateral PBF Biogás,442
+Programa bilateral PBF Biomasa,441
+Programa bilateral PBF Energía residual,440
+Programa bilateral PBF Subproductos minería,439
+Programa bilateral PBF Solar fotovoltaica,434
+Programa bilateral PBF Océano y geotérmica,436
+Programa bilateral PBF Solar térmica,435
+Programa bilateral PBF Eólica marina,433
+Programa bilateral PBF Derivados del petróleo ó carbón,438
+Programa bilateral PBF Gas Natural Cogeneración,437
+Programa bilateral PBF Ciclo combinado,429
+Programa bilateral PBF Gas Natural,431
+Programa bilateral PBF Fuel,430
+Programa bilateral PBF Hulla sub-bituminosa,428
+Programa bilateral PBF Eólica terrestre,432
+Programa bilateral PBF Nuclear,424
+Programa bilateral PBF Hulla antracita,427
+Programa bilateral PBF Hulla antracita Anexo II RD 134/2010,425
+Programa bilateral PBF Turbinación bombeo,423
+Programa bilateral PBF Hidráulica no UGH,422
+Programa bilateral PBF Hulla sub-bituminosa Anexo II RD 134/2010,426
+Demanda programada PHF7 Corrección REE,420
+Demanda programada PHF7 Corrección solar,419
+Demanda programada PHF7 Consumos directos en mercado,416
+Programa bilateral PBF Hidráulica UGH,421
+Demanda programada PHF7 Corrección eólica,418
+Demanda programada PHF7 Consumo de Servicios Auxiliares,417
+Demanda programada PHF6 Consumo de Servicios Auxiliares,410
+Demanda programada PHF7 Comercializadores mercado libre,414
+Demanda programada PHF6 Corrección solar,412
+Demanda programada PHF6 Corrección eólica,411
+Demanda programada PHF7 Comercializadores de referencia,415
+Demanda programada PHF6 Corrección REE,413
+Demanda programada PHF5 Corrección eólica,404
+Demanda programada PHF6 Consumos directos en mercado,409
+Demanda programada PHF6 Comercializadores mercado libre,407
+Demanda programada PHF5 Corrección solar,405
+Demanda programada PHF6 Comercializadores de referencia,408
+Demanda programada PHF5 Corrección REE,406
+Demanda programada PHF5 Consumo de Servicios Auxiliares,403
+Demanda programada PHF5 Consumos directos en mercado,402
+Demanda programada PHF5 Comercializadores mercado libre,400
+Demanda programada PHF4 Corrección solar,398
+Demanda programada PHF5 Comercializadores de referencia,401
+Demanda programada PHF4 Corrección REE,399
+Demanda programada PHF4 Consumo de Servicios Auxiliares,396
+Demanda programada PHF4 Corrección eólica,397
+Demanda programada PHF4 Consumos directos en mercado,395
+Demanda programada PHF4 Comercializadores mercado libre,393
+Demanda programada PHF4 Comercializadores de referencia,394
+Demanda programada PHF3 Corrección REE,392
+Demanda programada PHF3 Comercializadores de referencia,387
+Demanda programada PHF3 Corrección solar,391
+Demanda programada PHF3 Corrección eólica,390
+Demanda programada PHF3 Consumos directos en mercado,388
+Demanda programada PHF3 Consumo de Servicios Auxiliares,389
+Demanda programada PHF2 Corrección REE,385
+Demanda programada PHF3 Comercializadores mercado libre,386
+Demanda programada PHF2 Corrección solar,384
+Demanda programada PHF2 Corrección eólica,383
+Demanda programada PHF2 Consumo de Servicios Auxiliares,382
+Demanda programada PHF2 Consumos directos en mercado,381
+Demanda programada PHF2 Comercializadores de referencia,380
+Demanda programada PHF1 Consumo de Servicios Auxiliares,375
+Demanda programada PHF2 Comercializadores mercado libre,379
+Demanda programada PHF1 Corrección solar,377
+Demanda programada PHF1 Corrección REE,378
+Demanda programada PHF1 Corrección eólica,376
+Demanda programada P48 Corrección eólica,369
+Demanda programada PHF1 Consumos directos en mercado,374
+Demanda programada PHF1 Comercializadores mercado libre,372
+Demanda programada P48 Corrección solar,370
+Demanda programada PHF1 Comercializadores de referencia,373
+Demanda programada P48 Corrección REE,371
+Demanda programada P48 Comercializadores mercado libre,365
+Demanda programada P48 Consumo de Servicios Auxiliares,368
+Demanda programada P48 Consumos directos en mercado,367
+Demanda programada PVP Corrección solar,363
+Demanda programada P48 Comercializadores de referencia,366
+Demanda programada PVP Corrección REE,364
+Demanda programada PVP Comercializadores de referencia,359
+Demanda programada PVP Corrección eólica,362
+Demanda programada PVP Consumos directos en mercado,360
+Demanda programada PVP Comercializadores mercado libre,358
+Demanda programada PVP Consumo de Servicios Auxiliares,361
+Demanda programada PBF Corrección REE,357
+Demanda programada PBF Comercializadores de referencia,352
+Demanda programada PBF Corrección solar,356
+Demanda programada PBF Consumo de Servicios Auxiliares,354
+Demanda programada PBF Consumos directos en mercado,353
+Demanda programada PBF Corrección eólica,355
+Generación programada PHF7 Importación Andorra,346
+Demanda programada PBF Comercializadores mercado libre,351
+Generación programada PHF7 Exportación Marruecos,349
+Generación programada PHF7 Exportación Portugal,348
+Generación programada PHF7 Exportación Andorra,350
+Generación programada PHF7 Exportación Francia,347
+Generación programada PHF7 Consumo bombeo,340
+Generación programada PHF7 Importación Portugal,344
+Generación programada PHF7 Importación Francia,343
+Generación programada PHF7 Enlace Baleares,341
+Generación programada PHF7 Importación Marruecos,345
+Generación programada PHF7 Genéricas,342
+Generación programada PHF7 Residuos domésticos y similares,338
+Generación programada PHF7 Biogás,337
+Generación programada PHF7 Subproductos minería,334
+Generación programada PHF7 Derivados del petróleo ó carbón,333
+Generación programada PHF7 Residuos varios,339
+Generación programada PHF7 Energía residual,335
+Generación programada PHF7 Biomasa,336
+Generación programada PHF7 Solar térmica,330
+Generación programada PHF7 Solar fotovoltaica,329
+Generación programada PHF7 Eólica marina,328
+Generación programada PHF7 Océano y geotérmica,331
+Generación programada PHF7 Eólica terrestre,327
+Generación programada PHF7 Gas Natural Cogeneración,332
+Generación programada PHF7 Hulla antracita,322
+Generación programada PHF7 Fuel,325
+Generación programada PHF7 Hulla sub-bituminosa,323
+Generación programada PHF7 Hulla sub-bituminosa Anexo II RD 134/2010,321
+Generación programada PHF7 Gas Natural,326
+Generación programada PHF7 Ciclo combinado,324
+Generación programada PHF7 Hulla antracita Anexo II RD 134/2010,320
+Generación programada PHF7 Hidráulica no UGH,317
+Generación programada PHF7 Turbinación bombeo,318
+Generación programada PHF7 Hidráulica UGH,316
+Generación programada PHF7 Nuclear,319
+Generación programada PHF6 Exportación Andorra,315
+Generación programada PHF6 Exportación Marruecos,314
+Generación programada PHF6 Exportación Portugal,313
+Generación programada PHF6 Importación Portugal,309
+Generación programada PHF6 Importación Francia,308
+Generación programada PHF6 Exportación Francia,312
+Generación programada PHF6 Importación Andorra,311
+Generación programada PHF6 Importación Marruecos,310
+Generación programada PHF6 Genéricas,307
+Generación programada PHF6 Consumo bombeo,305
+Generación programada PHF6 Residuos domésticos y similares,303
+Generación programada PHF6 Biogás,302
+Generación programada PHF6 Enlace Baleares,306
+Generación programada PHF6 Residuos varios,304
+Generación programada PHF6 Gas Natural Cogeneración,297
+Generación programada PHF6 Energía residual,300
+Generación programada PHF6 Derivados del petróleo ó carbón,298
+Generación programada PHF6 Solar térmica,295
+Generación programada PHF6 Océano y geotérmica,296
+Generación programada PHF6 Biomasa,301
+Generación programada PHF6 Subproductos minería,299
+Generación programada PHF6 Ciclo combinado,289
+Generación programada PHF6 Eólica marina,293
+Generación programada PHF6 Eólica terrestre,292
+Generación programada PHF6 Fuel,290
+Generación programada PHF6 Solar fotovoltaica,294
+Generación programada PHF6 Gas Natural,291
+Generación programada PHF6 Hulla antracita,287
+Generación programada PHF6 Hulla sub-bituminosa,288
+Generación programada PHF6 Hulla antracita Anexo II RD 134/2010,285
+Generación programada PHF6 Nuclear,284
+Generación programada PHF6 Hulla sub-bituminosa Anexo II RD 134/2010,286
+Generación programada PHF6 Turbinación bombeo,283
+Generación programada PHF5 Importación Andorra,276
+Generación programada PHF6 Hidráulica no UGH,282
+Generación programada PHF5 Exportación Andorra,280
+Generación programada PHF5 Exportación Marruecos,279
+Generación programada PHF5 Exportación Francia,277
+Generación programada PHF6 Hidráulica UGH,281
+Generación programada PHF5 Exportación Portugal,278
+Generación programada PHF5 Consumo bombeo,270
+Generación programada PHF5 Enlace Baleares,271
+Generación programada PHF5 Importación Marruecos,275
+Generación programada PHF5 Importación Portugal,274
+Generación programada PHF5 Genéricas,272
+Generación programada PHF5 Importación Francia,273
+Generación programada PHF5 Subproductos minería,264
+Generación programada PHF5 Residuos domésticos y similares,268
+Generación programada PHF5 Biogás,267
+Generación programada PHF5 Energía residual,265
+Generación programada PHF5 Residuos varios,269
+Generación programada PHF5 Biomasa,266
+Generación programada PHF5 Océano y geotérmica,261
+Generación programada PHF5 Derivados del petróleo ó carbón,263
+Generación programada PHF5 Gas Natural Cogeneración,262
+Generación programada PHF5 Solar térmica,260
+Generación programada PHF5 Solar fotovoltaica,259
+Generación programada PHF5 Eólica marina,258
+Generación programada PHF5 Ciclo combinado,254
+Generación programada PHF5 Eólica terrestre,257
+Generación programada PHF5 Fuel,255
+Generación programada PHF5 Hulla sub-bituminosa,253
+Generación programada PHF5 Hulla antracita,252
+Generación programada PHF5 Gas Natural,256
+Generación programada PHF5 Hidráulica UGH,246
+Generación programada PHF5 Hulla antracita Anexo II RD 134/2010,250
+Generación programada PHF5 Nuclear,249
+Generación programada PHF5 Hidráulica no UGH,247
+Generación programada PHF5 Hulla sub-bituminosa Anexo II RD 134/2010,251
+Generación programada PHF5 Turbinación bombeo,248
+Generación programada PHF4 Exportación Francia,242
+Generación programada PHF4 Exportación Andorra,245
+Generación programada PHF4 Exportación Marruecos,244
+Generación programada PHF4 Importación Marruecos,240
+Generación programada PHF4 Exportación Portugal,243
+Generación programada PHF4 Importación Andorra,241
+Generación programada PHF4 Enlace Baleares,236
+Generación programada PHF4 Genéricas,237
+Generación programada PHF4 Consumo bombeo,235
+Generación programada PHF4 Importación Portugal,239
+Generación programada PHF4 Importación Francia,238
+Generación programada PHF4 Biomasa,231
+Generación programada PHF4 Residuos domésticos y similares,233
+Generación programada PHF4 Biogás,232
+Generación programada PHF4 Energía residual,230
+Generación programada PHF4 Residuos varios,234
+Generación programada PHF4 Solar fotovoltaica,224
+Generación programada PHF4 Derivados del petróleo ó carbón,228
+Generación programada PHF4 Gas Natural Cogeneración,227
+Generación programada PHF4 Solar térmica,225
+Generación programada PHF4 Océano y geotérmica,226
+Generación programada PHF4 Subproductos minería,229
+Generación programada PHF4 Fuel,220
+Generación programada PHF4 Eólica marina,223
+Generación programada PHF4 Gas Natural,221
+Generación programada PHF4 Hulla sub-bituminosa,218
+Generación programada PHF4 Ciclo combinado,219
+Generación programada PHF4 Eólica terrestre,222
+Generación programada PHF4 Hidráulica no UGH,212
+Generación programada PHF4 Hulla sub-bituminosa Anexo II RD 134/2010,216
+Generación programada PHF4 Hulla antracita Anexo II RD 134/2010,215
+Generación programada PHF4 Turbinación bombeo,213
+Generación programada PHF4 Hulla antracita,217
+Generación programada PHF4 Nuclear,214
+Generación programada PHF3 Exportación Andorra,210
+Generación programada PHF3 Exportación Portugal,208
+Generación programada PHF3 Importación Andorra,206
+Generación programada PHF4 Hidráulica UGH,211
+Generación programada PHF3 Exportación Marruecos,209
+Generación programada PHF3 Exportación Francia,207
+Generación programada PHF3 Genéricas,202
+Generación programada PHF3 Importación Marruecos,205
+Generación programada PHF3 Importación Francia,203
+Generación programada PHF3 Enlace Baleares,201
+Generación programada PHF3 Consumo bombeo,200
+Generación programada PHF3 Importación Portugal,204
+Generación programada PHF3 Biomasa,196
+Generación programada PHF3 Residuos domésticos y similares,198
+Generación programada PHF3 Biogás,197
+Generación programada PHF3 Energía residual,195
+Generación programada PHF3 Residuos varios,199
+Generación programada PHF3 Solar fotovoltaica,189
+Generación programada PHF3 Derivados del petróleo ó carbón,193
+Generación programada PHF3 Gas Natural Cogeneración,192
+Generación programada PHF3 Solar térmica,190
+Generación programada PHF3 Subproductos minería,194
+Generación programada PHF3 Océano y geotérmica,191
+Generación programada PHF3 Fuel,185
+Generación programada PHF3 Eólica marina,188
+Generación programada PHF3 Eólica terrestre,187
+Generación programada PHF3 Ciclo combinado,184
+Generación programada PHF3 Gas Natural,186
+Generación programada PHF3 Hulla sub-bituminosa,183
+Generación programada PHF3 Hidráulica no UGH,177
+Generación programada PHF3 Hulla sub-bituminosa Anexo II RD 134/2010,181
+Generación programada PHF3 Turbinación bombeo,178
+Generación programada PHF3 Hulla antracita Anexo II RD 134/2010,180
+Generación programada PHF3 Hulla antracita,182
+Generación programada PHF3 Nuclear,179
+Generación programada PHF2 Exportación Francia,172
+Generación programada PHF3 Hidráulica UGH,176
+Generación programada PHF2 Exportación Andorra,175
+Generación programada PHF2 Exportación Portugal,173
+Generación programada PHF2 Exportación Marruecos,174
+Generación programada PHF2 Genéricas,167
+Generación programada PHF2 Importación Andorra,171
+Generación programada PHF2 Importación Marruecos,170
+Generación programada PHF2 Importación Francia,168
+Generación programada PHF2 Importación Portugal,169
+Generación programada PHF2 Biogás,162
+Generación programada PHF2 Enlace Baleares,166
+Generación programada PHF2 Residuos domésticos y similares,163
+Generación programada PHF2 Biomasa,161
+Generación programada PHF2 Consumo bombeo,165
+Generación programada PHF2 Residuos varios,164
+Generación programada PHF2 Energía residual,160
+Generación programada PHF2 Subproductos minería,159
+Generación programada PHF2 Solar térmica,155
+Generación programada PHF2 Derivados del petróleo ó carbón,158
+Generación programada PHF2 Gas Natural Cogeneración,157
+Generación programada PHF2 Océano y geotérmica,156
+Generación programada PHF2 Ciclo combinado,149
+Generación programada PHF2 Eólica marina,153
+Generación programada PHF2 Eólica terrestre,152
+Generación programada PHF2 Fuel,150
+Generación programada PHF2 Gas Natural,151
+Generación programada PHF2 Solar fotovoltaica,154
+Generación programada PHF2 Turbinación bombeo,143
+Generación programada PHF2 Hulla sub-bituminosa,148
+Generación programada PHF2 Hulla antracita,147
+Generación programada PHF2 Hulla antracita Anexo II RD 134/2010,145
+Generación programada PHF2 Nuclear,144
+Generación programada PHF2 Hulla sub-bituminosa Anexo II RD 134/2010,146
+Generación programada PHF1 Exportación Portugal,138
+Generación programada PHF2 Hidráulica no UGH,142
+Generación programada PHF1 Exportación Andorra,140
+Generación programada PHF1 Exportación Marruecos,139
+Generación programada PHF1 Exportación Francia,137
+Generación programada PHF2 Hidráulica UGH,141
+Generación programada PHF1 Importación Portugal,134
+Generación programada PHF1 Genéricas,132
+Generación programada PHF1 Importación Marruecos,135
+Generación programada PHF1 Importación Andorra,136
+Generación programada PHF1 Importación Francia,133
+Generación programada PHF1 Enlace Baleares,131
+Generación programada PHF1 Biomasa,126
+Generación programada PHF1 Consumo bombeo,130
+Generación programada PHF1 Residuos domésticos y similares,128
+Generación programada PHF1 Biogás,127
+Generación programada PHF1 Residuos varios,129
+Generación programada PHF1 Océano y geotérmica,121
+Generación programada PHF1 Energía residual,125
+Generación programada PHF1 Derivados del petróleo ó carbón,123
+Generación programada PHF1 Gas Natural Cogeneración,122
+Generación programada PHF1 Solar térmica,120
+Generación programada PHF1 Subproductos minería,124
+Generación programada PHF1 Eólica marina,118
+Generación programada PHF1 Eólica terrestre,117
+Generación programada PHF1 Fuel,115
+Generación programada PHF1 Solar fotovoltaica,119
+Generación programada PHF1 Gas Natural,116
+Generación programada PHF1 Hulla antracita,112
+Generación programada PHF1 Hulla antracita Anexo II RD 134/2010,110
+Generación programada PHF1 Ciclo combinado,114
+Generación programada PHF1 Hulla sub-bituminosa Anexo II RD 134/2010,111
+Generación programada PHF1 Nuclear,109
+Generación programada PHF1 Hulla sub-bituminosa,113
+Generación programada P48 Exportación Portugal,103
+Generación programada PHF1 Hidráulica UGH,106
+Generación programada P48 Exportación Marruecos,104
+Generación programada PHF1 Hidráulica no UGH,107
+Generación programada PHF1 Turbinación bombeo,108
+Generación programada P48 Exportación Andorra,105
+Generación programada P48 Importación Portugal,99
+Generación programada P48 Importación Andorra,101
+Generación programada P48 Importación Marruecos,100
+Generación programada P48 Importación Francia,98
+Generación programada P48 Exportación Francia,102
+Generación programada P48 Enlace Baleares,96
+Generación programada P48 Genéricas,97
+Generación programada P48 Residuos domésticos y similares,93
+Generación programada P48 Biogás,92
+Generación programada P48 Residuos varios,94
+Generación programada P48 Consumo bombeo,95
+Generación programada P48 Océano y geotérmica,86
+Generación programada P48 Energía residual,90
+Generación programada P48 Derivados del petróleo ó carbón,88
+Generación programada P48 Gas Natural Cogeneración,87
+Generación programada P48 Biomasa,91
+Generación programada P48 Subproductos minería,89
+Generación programada P48 Solar térmica,85
+Generación programada P48 Eólica marina,83
+Generación programada P48 Eólica terrestre,82
+Generación programada P48 Fuel,80
+Generación programada P48 Solar fotovoltaica,84
+Generación programada P48 Gas Natural,81
+Generación programada P48 Hulla antracita,77
+Generación programada P48 Ciclo combinado,79
+Generación programada P48 Hulla sub-bituminosa Anexo II RD 134/2010,76
+Generación programada P48 Hulla antracita Anexo II RD 134/2010,75
+Generación programada P48 Hulla sub-bituminosa,78
+Generación programada PVP Exportación Andorra,70
+Generación programada P48 Turbinación bombeo,73
+Generación programada P48 Nuclear,74
+Generación programada P48 Hidráulica no UGH,72
+Generación programada P48 Hidráulica UGH,71
+Generación programada PVP Exportación Marruecos,69
+Generación programada PVP Importación Andorra,66
+Generación programada PVP Importación Marruecos,65
+Generación programada PVP Importación Portugal,64
+Generación programada PVP Exportación Portugal,68
+Generación programada PVP Exportación Francia,67
+Generación programada PVP Enlace Baleares,61
+Generación programada PVP Importación Francia,63
+Generación programada PVP Consumo bombeo,60
+Generación programada PVP Residuos domésticos y similares,58
+Generación programada PVP Genéricas,62
+Generación programada PVP Residuos varios,59
+Generación programada PVP Subproductos minería,54
+Generación programada PVP Biogás,57
+Generación programada PVP Energía residual,55
+Generación programada PVP Derivados del petróleo ó carbón,53
+Generación programada PVP Biomasa,56
+Generación programada PVP Solar fotovoltaica,49
+Generación programada PVP Océano y geotérmica,51
+Generación programada PVP Solar térmica,50
+Generación programada PVP Eólica marina,48
+Generación programada PVP Eólica terrestre,47
+Generación programada PVP Gas Natural Cogeneración,52
+Generación programada PVP Hulla sub-bituminosa Anexo II RD 134/2010,41
+Generación programada PVP Fuel,45
+Generación programada PVP Hulla sub-bituminosa,43
+Generación programada PVP Hulla antracita,42
+Generación programada PVP Gas Natural,46
+Generación programada PVP Ciclo combinado,44
+Generación programada PVP Hidráulica UGH,36
+Generación programada PVP Nuclear,39
+Generación programada PBF Exportación Andorra,35
+Generación programada PVP Hulla antracita Anexo II RD 134/2010,40
+Generación programada PVP Hidráulica no UGH,37
+Generación programada PVP Turbinación bombeo,38
+Generación programada PBF Importación Andorra,31
+Generación programada PBF Exportación Marruecos,34
+Generación programada PBF Exportación Francia,32
+Generación programada PBF Importación Marruecos,30
+Generación programada PBF Importación Portugal,29
+Generación programada PBF Exportación Portugal,33
+Generación programada PBF Residuos varios,24
+Generación programada PBF Genéricas,27
+Generación programada PBF Consumo bombeo,25
+Generación programada PBF Residuos domésticos y similares,23
+Generación programada PBF Importación Francia,28
+Generación programada PBF Enlace Baleares,26
+Generación programada PBF Gas Natural Cogeneración,17
+Generación programada PBF Biogás,22
+Generación programada PBF Biomasa,21
+Generación programada PBF Subproductos minería,19
+Generación programada PBF Energía residual,20
+Generación programada PBF Derivados del petróleo ó carbón,18
+Generación programada PBF Eólica marina,13
+Generación programada PBF Océano y geotérmica,16
+Generación programada PBF Solar fotovoltaica,14
+Generación programada PBF Eólica terrestre,12
+Generación programada PBF Solar térmica,15
+Generación programada PBF Hulla sub-bituminosa Anexo II RD 134/2010,6
+Generación programada PBF Gas Natural,11
+Generación programada PBF Ciclo combinado,9
+Generación programada PBF Hulla antracita,7
+Generación programada PBF Fuel,10
+Generación programada PBF Hulla sub-bituminosa,8
+Generación programada PBF Hidráulica no UGH,2
+Generación programada PBF Hidráulica UGH,1
+Generación programada PBF Turbinación bombeo,3
+Generación programada PBF Nuclear,4
+Generación programada PBF Hulla antracita Anexo II RD 134/2010,5
